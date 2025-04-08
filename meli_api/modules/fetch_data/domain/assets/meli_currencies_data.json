@@ -1,0 +1,4007 @@
+{
+  "CUR462": {
+    "name": "Argentine Peso",
+    "description": "EdoDIkMFrJuwPAhZLsrMpPvYynOxpX",
+    "code": "EUR"
+  },
+  "CUR998": {
+    "name": "Argentine Peso",
+    "description": "tJrplOGQQLXJcXHRhLFGjzRRqPSoHF",
+    "code": "EUR"
+  },
+  "CUR626": {
+    "name": "Argentine Peso",
+    "description": "dlFeXHOumwkOToIJUyKuyqSnNcfrAP",
+    "code": "ARS"
+  },
+  "CUR602": {
+    "name": "Brazilian Real",
+    "description": "PjGqhrCrXfDLJOOzxzjizmSiwDgckq",
+    "code": "ARS"
+  },
+  "CUR226": {
+    "name": "Argentine Peso",
+    "description": "CiwpIgMNJDBLsQDPKYeEBjAJyFSzxU",
+    "code": "USD"
+  },
+  "CUR389": {
+    "name": "Brazilian Real",
+    "description": "oGIoVvggfgmCnkMXkzfwmAXLYPFpVR",
+    "code": "EUR"
+  },
+  "CUR934": {
+    "name": "Argentine Peso",
+    "description": "HTvZCrbxgZwFFNWrlgYNnKJCirPXUO",
+    "code": "BRL"
+  },
+  "CUR771": {
+    "name": "Argentine Peso",
+    "description": "dwzhOPrSPgAKDdiJkIemnTLtmweXap",
+    "code": "BRL"
+  },
+  "CUR614": {
+    "name": "US Dollar",
+    "description": "lrwRRJxzQUTTMDEUdmwNBOJbahMuYT",
+    "code": "ARS"
+  },
+  "CUR727": {
+    "name": "Argentine Peso",
+    "description": "BtbqueNTNbhBdkHiamGkgGsQJUTOEH",
+    "code": "BRL"
+  },
+  "CUR643": {
+    "name": "Argentine Peso",
+    "description": "SHkujcuHvYftUNyXKsxNWzRKMUQnWU",
+    "code": "BRL"
+  },
+  "CUR544": {
+    "name": "Euro",
+    "description": "TpOvRUGwQrpMpSfhxJMkluaXjoCIKL",
+    "code": "ARS"
+  },
+  "CUR492": {
+    "name": "US Dollar",
+    "description": "XFVseQIiKMDrrBrwoeDUXwPOBosUuR",
+    "code": "USD"
+  },
+  "CUR789": {
+    "name": "US Dollar",
+    "description": "pbXnIAWJQFWactxASPsVJpFdQviDhT",
+    "code": "BRL"
+  },
+  "CUR200": {
+    "name": "Brazilian Real",
+    "description": "SfOdowkloseKalBXYzYGVpzQuDOfhT",
+    "code": "USD"
+  },
+  "CUR312": {
+    "name": "US Dollar",
+    "description": "pJrrBYUWwBiukKyyIIWfZYVfqlQTXY",
+    "code": "ARS"
+  },
+  "CUR298": {
+    "name": "Euro",
+    "description": "NhBPlisSuTSLRUGjxRPkmXlKPYlObJ",
+    "code": "BRL"
+  },
+  "CUR910": {
+    "name": "Euro",
+    "description": "QPEiazuKFLrPTTdBOqfaeTDOtNyNHy",
+    "code": "ARS"
+  },
+  "CUR745": {
+    "name": "Brazilian Real",
+    "description": "OMwNNptUaoiisxEKxRtVPFmiWejPap",
+    "code": "ARS"
+  },
+  "CUR325": {
+    "name": "US Dollar",
+    "description": "zzdUuJQwWcGKjBdAmlKJCClVVSAVvn",
+    "code": "BRL"
+  },
+  "CUR209": {
+    "name": "Brazilian Real",
+    "description": "IJNOxAfdxVuJQlzITpCpkHkplNKkXM",
+    "code": "ARS"
+  },
+  "CUR395": {
+    "name": "Argentine Peso",
+    "description": "meatdjSlcMPuRLOjBtwUtAjPtYPpIz",
+    "code": "BRL"
+  },
+  "CUR164": {
+    "name": "Euro",
+    "description": "GdCbiZtyVuBAgXexMYdFEOwRHqAgrk",
+    "code": "USD"
+  },
+  "CUR884": {
+    "name": "US Dollar",
+    "description": "evoBEvIRbnbfSNbNnWqWFtCFehFrKy",
+    "code": "BRL"
+  },
+  "CUR967": {
+    "name": "US Dollar",
+    "description": "hUYdoHAFhMJdtJlUltVZktHcvVVnfs",
+    "code": "BRL"
+  },
+  "CUR556": {
+    "name": "Brazilian Real",
+    "description": "uUofUBoxfWmBHzMphKONcqeHBZAubE",
+    "code": "BRL"
+  },
+  "CUR168": {
+    "name": "Brazilian Real",
+    "description": "WzOwtpMEuOkdNBppjDMPwCjwcKgVOj",
+    "code": "USD"
+  },
+  "CUR664": {
+    "name": "Argentine Peso",
+    "description": "wkjQnGIVzBBrnVqqNYZMwmEzLINsfo",
+    "code": "USD"
+  },
+  "CUR433": {
+    "name": "Argentine Peso",
+    "description": "ZSMtQmjNvtISvBcWXkUCLQPAWVOQmc",
+    "code": "ARS"
+  },
+  "CUR496": {
+    "name": "US Dollar",
+    "description": "koWcqHAMVWOrvacVAANnlCuNopKbFJ",
+    "code": "BRL"
+  },
+  "CUR479": {
+    "name": "Euro",
+    "description": "WBIWYZjwwKZHTkDnpGJAJomUVoQZQd",
+    "code": "USD"
+  },
+  "CUR427": {
+    "name": "US Dollar",
+    "description": "PhHLvHBCyupUBRkCcueYHkVePgMbSP",
+    "code": "ARS"
+  },
+  "CUR840": {
+    "name": "Argentine Peso",
+    "description": "LYBUWeWlFdCGVnDOBHMPojDVphgVNG",
+    "code": "EUR"
+  },
+  "CUR387": {
+    "name": "Euro",
+    "description": "knpcGmanZQofwRSPMnWgoVKBapnqGA",
+    "code": "EUR"
+  },
+  "CUR590": {
+    "name": "US Dollar",
+    "description": "IefNwPjPbzvwGgFmYdEwDAjJofhcle",
+    "code": "EUR"
+  },
+  "CUR234": {
+    "name": "Argentine Peso",
+    "description": "HVYCQRXWPRFuouVSnzMRIeZtJPDFzk",
+    "code": "USD"
+  },
+  "CUR685": {
+    "name": "US Dollar",
+    "description": "ARZQaliyhopFzeqlEXyxysEkuccOfx",
+    "code": "ARS"
+  },
+  "CUR529": {
+    "name": "Euro",
+    "description": "tIYoRqWOZzRzPHVOqHyjCBrRhfDUrM",
+    "code": "USD"
+  },
+  "CUR986": {
+    "name": "US Dollar",
+    "description": "smkEsdcwnLfBcKPcTGLXLEAKNyfxJC",
+    "code": "ARS"
+  },
+  "CUR398": {
+    "name": "Euro",
+    "description": "yLQxRNnajUXIutNlClBxIJXBHXIdtq",
+    "code": "USD"
+  },
+  "CUR652": {
+    "name": "Brazilian Real",
+    "description": "JlQlYKARUIiXGIGwVnCHBxLQNLnqYi",
+    "code": "EUR"
+  },
+  "CUR277": {
+    "name": "Euro",
+    "description": "oyaeLhmbmvMFFXyYPeIlUjlvzFJDbG",
+    "code": "USD"
+  },
+  "CUR891": {
+    "name": "US Dollar",
+    "description": "LhGGGnwXvcPhiekJGotvmhCPWvnzSx",
+    "code": "EUR"
+  },
+  "CUR985": {
+    "name": "US Dollar",
+    "description": "kiNkhQuiSdGwYpeBvEBRUnoHYNmoDd",
+    "code": "BRL"
+  },
+  "CUR343": {
+    "name": "US Dollar",
+    "description": "dpgSWDKqrtRoSDmGFVJuVUzMsbPkkf",
+    "code": "BRL"
+  },
+  "CUR308": {
+    "name": "US Dollar",
+    "description": "YGPDpBWiuIcilMvABoWMIHhIGUrPfn",
+    "code": "BRL"
+  },
+  "CUR874": {
+    "name": "Brazilian Real",
+    "description": "mkvpoQKFrmXeFsHSRXWtJYJxYowMxR",
+    "code": "EUR"
+  },
+  "CUR119": {
+    "name": "Argentine Peso",
+    "description": "bjlYsPUbjsgDuVQmJrxsDJgXcSSLzF",
+    "code": "ARS"
+  },
+  "CUR262": {
+    "name": "Brazilian Real",
+    "description": "MbErGTVxhMKZZvflRBwJtWtDFwLcZe",
+    "code": "ARS"
+  },
+  "CUR928": {
+    "name": "Brazilian Real",
+    "description": "DrzWojSfHfUOtSzQqiQrfwkivOeZgr",
+    "code": "USD"
+  },
+  "CUR138": {
+    "name": "Euro",
+    "description": "WHaucdDDNVYjvruiAWAgUpciMvNnpR",
+    "code": "ARS"
+  },
+  "CUR945": {
+    "name": "Euro",
+    "description": "zBRdLgfiVmmcNcRenkPomwkhQLPLKS",
+    "code": "ARS"
+  },
+  "CUR151": {
+    "name": "US Dollar",
+    "description": "wYbZSNtGMBWuuzoaVUQGCJcoLHldeU",
+    "code": "USD"
+  },
+  "CUR358": {
+    "name": "Argentine Peso",
+    "description": "gWuxQqprTdhilIxBcxGqlCOSkAmWHe",
+    "code": "USD"
+  },
+  "CUR375": {
+    "name": "Brazilian Real",
+    "description": "BapSYCwLQWUQexMKGbZhWtTtUgzxHH",
+    "code": "USD"
+  },
+  "CUR163": {
+    "name": "Argentine Peso",
+    "description": "PQpDWIncsNwSdzowNDXrRelogoHIjS",
+    "code": "USD"
+  },
+  "CUR593": {
+    "name": "Brazilian Real",
+    "description": "mMihCdfYueTMRehzVssqUTRrCZBjFJ",
+    "code": "BRL"
+  },
+  "CUR869": {
+    "name": "US Dollar",
+    "description": "FeJiDDBXrhEekZfgpehSAlBsomGlXg",
+    "code": "USD"
+  },
+  "CUR638": {
+    "name": "Argentine Peso",
+    "description": "ElisAuLQGExLkGHfvRMKqNxMECbKuC",
+    "code": "ARS"
+  },
+  "CUR461": {
+    "name": "Argentine Peso",
+    "description": "nISPGwBVXjyXWYfRirfecMKOAmJHkg",
+    "code": "USD"
+  },
+  "CUR808": {
+    "name": "Argentine Peso",
+    "description": "bgTFkVGQOYLxlfrLyefavqJUHCvivp",
+    "code": "BRL"
+  },
+  "CUR490": {
+    "name": "Argentine Peso",
+    "description": "kCmWUWmyHIFUwRTOzPKKNGURoiycRW",
+    "code": "USD"
+  },
+  "CUR383": {
+    "name": "Argentine Peso",
+    "description": "MfkBMEiLUsTZVwMVPAKkeNncYmhNhG",
+    "code": "BRL"
+  },
+  "CUR410": {
+    "name": "US Dollar",
+    "description": "HnBzpWRpHpvWAVzOxHVnwIoXyWQjwk",
+    "code": "EUR"
+  },
+  "CUR274": {
+    "name": "Euro",
+    "description": "ZqxfaMTvIITLmQjShzbaPsGeWDWdEU",
+    "code": "USD"
+  },
+  "CUR448": {
+    "name": "Argentine Peso",
+    "description": "vaPoscPWkKEZuDaeQyemiePpApEgRQ",
+    "code": "BRL"
+  },
+  "CUR349": {
+    "name": "US Dollar",
+    "description": "dXDiDKkJYfJVtzxOLZVRCxOwKPOXVv",
+    "code": "ARS"
+  },
+  "CUR889": {
+    "name": "US Dollar",
+    "description": "sjXLjZcNbHIJcdvXOlQIRPwOVLcGuE",
+    "code": "ARS"
+  },
+  "CUR946": {
+    "name": "Euro",
+    "description": "eNkoyAgaoLAGjcOPvQnYheNxWhiXzW",
+    "code": "ARS"
+  },
+  "CUR208": {
+    "name": "US Dollar",
+    "description": "oesObzbcpJiUUVPFXWioarJGQJCnQJ",
+    "code": "BRL"
+  },
+  "CUR968": {
+    "name": "Argentine Peso",
+    "description": "lUIOtZOzIMFAADgsBWhOefEydgHkiI",
+    "code": "USD"
+  },
+  "CUR722": {
+    "name": "US Dollar",
+    "description": "IHoFiAKtdiAgTjXHrEgXFpHONzkKiC",
+    "code": "EUR"
+  },
+  "CUR837": {
+    "name": "Euro",
+    "description": "gWYQWgvAheKRtgdUJoTSnMqJaiIMUs",
+    "code": "USD"
+  },
+  "CUR781": {
+    "name": "Euro",
+    "description": "ehBJYUajENntlDutlpQNMYYfOlkXms",
+    "code": "USD"
+  },
+  "CUR949": {
+    "name": "US Dollar",
+    "description": "ezEtBaJZioQGkoIRkNhNSBvBfpKGXv",
+    "code": "EUR"
+  },
+  "CUR899": {
+    "name": "Brazilian Real",
+    "description": "tpKGvllyiYrxVQanaMIOgayXxlcxfa",
+    "code": "EUR"
+  },
+  "CUR213": {
+    "name": "US Dollar",
+    "description": "SXMaimiegLwaUcujScCQCiCVPoCQTZ",
+    "code": "EUR"
+  },
+  "CUR856": {
+    "name": "Euro",
+    "description": "nTqzfUuODmopVvAaZJIBfNbMvoiQgg",
+    "code": "EUR"
+  },
+  "CUR553": {
+    "name": "Argentine Peso",
+    "description": "dwsCaESmoyNHjDgPcOgKfzlydIIFZS",
+    "code": "USD"
+  },
+  "CUR582": {
+    "name": "US Dollar",
+    "description": "aRXdiMArYTUJhnTWppYtNfUGGOquxY",
+    "code": "EUR"
+  },
+  "CUR995": {
+    "name": "Argentine Peso",
+    "description": "oNqFdDHLMHkQeOELbUClRJeEthfpUh",
+    "code": "ARS"
+  },
+  "CUR709": {
+    "name": "Brazilian Real",
+    "description": "nBDXXaJPIurWdldUdwxcBLtWvEAwXL",
+    "code": "EUR"
+  },
+  "CUR306": {
+    "name": "Euro",
+    "description": "NpMteZxtdmVCLhtSALTqhUKFZOQSuP",
+    "code": "ARS"
+  },
+  "CUR822": {
+    "name": "Brazilian Real",
+    "description": "dOsNRrxeJFYYVCXUfqSEZWDKleGKGL",
+    "code": "EUR"
+  },
+  "CUR972": {
+    "name": "Brazilian Real",
+    "description": "DQVgeEGWjvfqfvOyIwZkDsKmYoIEdZ",
+    "code": "USD"
+  },
+  "CUR183": {
+    "name": "Brazilian Real",
+    "description": "tpYsUzEqYYceXidLNqFocukYPxpWjN",
+    "code": "USD"
+  },
+  "CUR543": {
+    "name": "Argentine Peso",
+    "description": "oSCBDwYACDoaVjTvZMYHAjoBRGLKXU",
+    "code": "ARS"
+  },
+  "CUR873": {
+    "name": "US Dollar",
+    "description": "oZbdAzYxMkGVDvKXnTAwXIxYTSFyVC",
+    "code": "USD"
+  },
+  "CUR900": {
+    "name": "Brazilian Real",
+    "description": "qQaRNkyfsNDGodgtIYIuUmkQnREqOT",
+    "code": "ARS"
+  },
+  "CUR697": {
+    "name": "US Dollar",
+    "description": "xiDrgHNrpuskLBJyIshLUYKEESmdGa",
+    "code": "ARS"
+  },
+  "CUR409": {
+    "name": "US Dollar",
+    "description": "mBnSHfMAEqAhuIOExtchRQKIiZCjSi",
+    "code": "BRL"
+  },
+  "CUR139": {
+    "name": "US Dollar",
+    "description": "UdmTSAuZFwBdbbQBaixzQnVcGUkxdX",
+    "code": "ARS"
+  },
+  "CUR255": {
+    "name": "Euro",
+    "description": "WVBlnOUpclrhivxUwhPZzcEnVwZpYA",
+    "code": "BRL"
+  },
+  "CUR948": {
+    "name": "Euro",
+    "description": "QCNnOybCvlTIZoYryjVHlqgvcmZlCJ",
+    "code": "EUR"
+  },
+  "CUR328": {
+    "name": "US Dollar",
+    "description": "MUuHmwgoKXFglNEnQpjnCXojVpcRbp",
+    "code": "BRL"
+  },
+  "CUR495": {
+    "name": "Euro",
+    "description": "LxWYZrrrThwpASNUsObhskeyOzPTzT",
+    "code": "USD"
+  },
+  "CUR250": {
+    "name": "Argentine Peso",
+    "description": "BuZrtHXQoAJpOccgpkcnkglvjwFHNu",
+    "code": "EUR"
+  },
+  "CUR812": {
+    "name": "Euro",
+    "description": "TpTeKmLwkenSkBiIQUkzGzMhDdoxdG",
+    "code": "USD"
+  },
+  "CUR623": {
+    "name": "Brazilian Real",
+    "description": "uOxjceykrKossNbnolbvGVweNyTzbs",
+    "code": "ARS"
+  },
+  "CUR115": {
+    "name": "Brazilian Real",
+    "description": "kHtOvBUaGwEMWtvJaCweteSpvCeaXM",
+    "code": "EUR"
+  },
+  "CUR597": {
+    "name": "US Dollar",
+    "description": "UuZLFWpEBVExPuPUcyAvjkJSHtHbkc",
+    "code": "USD"
+  },
+  "CUR870": {
+    "name": "Euro",
+    "description": "RZYZKTafLFQAYajRPHkDIVjeGTJgiL",
+    "code": "USD"
+  },
+  "CUR227": {
+    "name": "Euro",
+    "description": "hBrimpJhKVHBXFysRIGxnTlaujgmIa",
+    "code": "BRL"
+  },
+  "CUR682": {
+    "name": "US Dollar",
+    "description": "oKpgacjgUWqwrPIqROiYgvlvLWEKHe",
+    "code": "ARS"
+  },
+  "CUR586": {
+    "name": "Euro",
+    "description": "mtpwiBfLcYlpKbAYqOBZXbqeithLMe",
+    "code": "ARS"
+  },
+  "CUR921": {
+    "name": "Euro",
+    "description": "HBtunmXoymlzcbXpdTWDUrMhctXoXu",
+    "code": "ARS"
+  },
+  "CUR671": {
+    "name": "Euro",
+    "description": "GWDDHrYvhowdXROYamfFcpFPirEZPu",
+    "code": "USD"
+  },
+  "CUR293": {
+    "name": "US Dollar",
+    "description": "pkIxFsiOJUgjItUBkkZWAUXexJjPLw",
+    "code": "BRL"
+  },
+  "CUR303": {
+    "name": "Brazilian Real",
+    "description": "oBApnpxnBqiycsaqpyyClhqkgPcOlq",
+    "code": "USD"
+  },
+  "CUR464": {
+    "name": "Euro",
+    "description": "BtwEiIVFXHiXuROGYGrtGaMbQlGAsV",
+    "code": "EUR"
+  },
+  "CUR952": {
+    "name": "Argentine Peso",
+    "description": "HWVtdqGlzzUqsXGkqJauulqHYidxks",
+    "code": "EUR"
+  },
+  "CUR360": {
+    "name": "Euro",
+    "description": "LlmdcaNCOndGlqgThwpSEvBRLBdtbh",
+    "code": "EUR"
+  },
+  "CUR654": {
+    "name": "Euro",
+    "description": "RSqrSLEyLPptyRmRBuigsbMqHBgTci",
+    "code": "BRL"
+  },
+  "CUR264": {
+    "name": "Brazilian Real",
+    "description": "TtcYYAveLQLUioZUftyfzSpGSlTGaF",
+    "code": "EUR"
+  },
+  "CUR472": {
+    "name": "US Dollar",
+    "description": "vUxHPcTzPxHmGnPkBwyPXjlyfgcZqV",
+    "code": "EUR"
+  },
+  "CUR618": {
+    "name": "Euro",
+    "description": "DLofjGGxRjcLnAvjtFLytlgDVQUCOG",
+    "code": "USD"
+  },
+  "CUR620": {
+    "name": "US Dollar",
+    "description": "jzvvkFFNnVyNHCPsPVALUUkYpXpdMi",
+    "code": "USD"
+  },
+  "CUR970": {
+    "name": "Euro",
+    "description": "xUetpOntqoGWqtOmOUJzmqFpLtgbyt",
+    "code": "USD"
+  },
+  "CUR803": {
+    "name": "Euro",
+    "description": "vBaeyajCVReakCUzFUSgAECKHYRISE",
+    "code": "BRL"
+  },
+  "CUR974": {
+    "name": "Argentine Peso",
+    "description": "AYExafahzkQsMLZAbJhlWkcjOATLiY",
+    "code": "ARS"
+  },
+  "CUR818": {
+    "name": "Euro",
+    "description": "rZeNzPjQoiGTnKKIcQcBMSZhtiNEJz",
+    "code": "BRL"
+  },
+  "CUR178": {
+    "name": "US Dollar",
+    "description": "hvywCyglehrvrKlZnlwwgnkTGhjStq",
+    "code": "BRL"
+  },
+  "CUR790": {
+    "name": "US Dollar",
+    "description": "ZKYSXSxiJypfwHRWcNWWtJZolPRGnM",
+    "code": "EUR"
+  },
+  "CUR537": {
+    "name": "US Dollar",
+    "description": "PUAEPgxQIrbuRUvTKSBZGnfXgAyzaR",
+    "code": "EUR"
+  },
+  "CUR458": {
+    "name": "Brazilian Real",
+    "description": "wtnCsYteqXIPWyifHAIhEyTXALgFiq",
+    "code": "ARS"
+  },
+  "CUR739": {
+    "name": "Euro",
+    "description": "QSQNzKlLULNasKUeVLIAaoXKEMchfl",
+    "code": "BRL"
+  },
+  "CUR563": {
+    "name": "US Dollar",
+    "description": "XVczTRFCqZEAsINsxSImwinbACTXIU",
+    "code": "EUR"
+  },
+  "CUR800": {
+    "name": "Brazilian Real",
+    "description": "ezUUMwDsmbpetrPhknJGVrDYDgOabB",
+    "code": "ARS"
+  },
+  "CUR981": {
+    "name": "US Dollar",
+    "description": "uQRSDtXjZlaCtSbbRWKacCbqWatRin",
+    "code": "BRL"
+  },
+  "CUR817": {
+    "name": "Argentine Peso",
+    "description": "CakmWFbgLggDJDcdTKeUbpxkCttLxY",
+    "code": "BRL"
+  },
+  "CUR649": {
+    "name": "US Dollar",
+    "description": "GTDVBcoqfKnuWCfGXjQXEgGJNTYtmO",
+    "code": "ARS"
+  },
+  "CUR702": {
+    "name": "US Dollar",
+    "description": "bvhqpUWJdGjvCuCRTVmsLqzJtPGUDQ",
+    "code": "EUR"
+  },
+  "CUR452": {
+    "name": "Argentine Peso",
+    "description": "JbhnfmpmycjmLquopAZYtXyggmQvCj",
+    "code": "USD"
+  },
+  "CUR350": {
+    "name": "US Dollar",
+    "description": "HawpQkHLlJuMABIhlFZHzeFzrMGuEN",
+    "code": "ARS"
+  },
+  "CUR467": {
+    "name": "Brazilian Real",
+    "description": "FMTxvrjmOSwtsDALVWaZrouOkOjpXG",
+    "code": "EUR"
+  },
+  "CUR979": {
+    "name": "Argentine Peso",
+    "description": "bKrcDookWWTkKyBuYuTIVzPknJuOde",
+    "code": "EUR"
+  },
+  "CUR456": {
+    "name": "Euro",
+    "description": "SqGwkjczDjcCiTnzfLQiGHiMrzWuTL",
+    "code": "ARS"
+  },
+  "CUR753": {
+    "name": "Euro",
+    "description": "ycjFJuDTXhLSQhQGUPrHvIDkTqXFdh",
+    "code": "USD"
+  },
+  "CUR667": {
+    "name": "Euro",
+    "description": "xHLfPSnDegwQSyzYEBdnnsGuTpgYvx",
+    "code": "ARS"
+  },
+  "CUR532": {
+    "name": "Argentine Peso",
+    "description": "otRHCKcapwnsZnTpWlSgmuoApwBDLT",
+    "code": "EUR"
+  },
+  "CUR371": {
+    "name": "US Dollar",
+    "description": "rLXdXOIMzMnoWNTafgqGPwhJMjvTAi",
+    "code": "BRL"
+  },
+  "CUR756": {
+    "name": "Euro",
+    "description": "QtTWtXLxixswQlfEYRSgAYALPbkljm",
+    "code": "EUR"
+  },
+  "CUR805": {
+    "name": "US Dollar",
+    "description": "cIbiPbkyJwhumAteBkpCDIghlaOYHp",
+    "code": "EUR"
+  },
+  "CUR591": {
+    "name": "Argentine Peso",
+    "description": "OMvkIWlSpzwXJinAuyTOykplfXDcMU",
+    "code": "BRL"
+  },
+  "CUR733": {
+    "name": "Brazilian Real",
+    "description": "LvBdQncHlwlmZyORQaSXAsyZUPZgNn",
+    "code": "BRL"
+  },
+  "CUR960": {
+    "name": "Euro",
+    "description": "KlBXiUipZnkiIXwiTZLhmevUMwlXhi",
+    "code": "USD"
+  },
+  "CUR541": {
+    "name": "US Dollar",
+    "description": "ZVoMnOPROVuzGcKnHDhYDGoDxRmySd",
+    "code": "BRL"
+  },
+  "CUR155": {
+    "name": "Brazilian Real",
+    "description": "GylVnAgUjhyRubDpmoKvanBXMjbVSl",
+    "code": "EUR"
+  },
+  "CUR419": {
+    "name": "Euro",
+    "description": "MLUpmVzBvcnCLrxqRWPxWjYpnhpdXx",
+    "code": "USD"
+  },
+  "CUR241": {
+    "name": "US Dollar",
+    "description": "CjUHhuSsHKxtZwdtAxAXlgeyEMGuMq",
+    "code": "USD"
+  },
+  "CUR493": {
+    "name": "Euro",
+    "description": "FZDLbAUHWRkChbOCRNRvmOsIqraDoF",
+    "code": "BRL"
+  },
+  "CUR223": {
+    "name": "Argentine Peso",
+    "description": "WaRLDpZRHgBeweOVSzWpgtBKUdYGBT",
+    "code": "USD"
+  },
+  "CUR169": {
+    "name": "Brazilian Real",
+    "description": "oVsbGATIBMsFBaMkMFjSDzzpJPQQri",
+    "code": "ARS"
+  },
+  "CUR860": {
+    "name": "Euro",
+    "description": "ugGSnrdQNagFThzOUFlAXNMKpWdBeA",
+    "code": "USD"
+  },
+  "CUR686": {
+    "name": "US Dollar",
+    "description": "NipQoaWwXMJkcAOAQLthUTSvXfMMHz",
+    "code": "USD"
+  },
+  "CUR478": {
+    "name": "US Dollar",
+    "description": "aLlsZYivlutFHShXXwQQVicSgtdjkB",
+    "code": "USD"
+  },
+  "CUR518": {
+    "name": "Argentine Peso",
+    "description": "MkJTDGKLjkrKpBrShkEbcUXaaYgTIG",
+    "code": "USD"
+  },
+  "CUR128": {
+    "name": "Argentine Peso",
+    "description": "XeoZbimDiVxTnFnHegOTqHZnffZBhK",
+    "code": "ARS"
+  },
+  "CUR446": {
+    "name": "Euro",
+    "description": "VjAFKPpuoJUQUWtvyAeGYiekKXomKh",
+    "code": "ARS"
+  },
+  "CUR890": {
+    "name": "Euro",
+    "description": "zJcqESeJDWeIgvMTQCeTZNlLxMQbip",
+    "code": "BRL"
+  },
+  "CUR426": {
+    "name": "Euro",
+    "description": "MMWFyFWySCYMzNMTGlNPIHYmDSylQy",
+    "code": "EUR"
+  },
+  "CUR449": {
+    "name": "Brazilian Real",
+    "description": "YoQRIsGcJKrGPoUBTjdIVFFqBNraFK",
+    "code": "EUR"
+  },
+  "CUR864": {
+    "name": "US Dollar",
+    "description": "LWhsGkdpVBJLSoNMffCSynKjFCBbVs",
+    "code": "ARS"
+  },
+  "CUR980": {
+    "name": "US Dollar",
+    "description": "uldtfKDAvpRGkKmDToylFMVaadfpTm",
+    "code": "EUR"
+  },
+  "CUR121": {
+    "name": "US Dollar",
+    "description": "ayQleLNAyDLvhbgmNnmxLnAvXhXUyz",
+    "code": "USD"
+  },
+  "CUR836": {
+    "name": "US Dollar",
+    "description": "QlLZmsDlDdJZCCLAtaOKiaJrIuimHu",
+    "code": "EUR"
+  },
+  "CUR651": {
+    "name": "Euro",
+    "description": "PWZBnDSKBZvZxonubXsgMVIdXBRcpR",
+    "code": "EUR"
+  },
+  "CUR319": {
+    "name": "Euro",
+    "description": "fitMUflMhIlRVOCwXUPlECazYPlHTU",
+    "code": "USD"
+  },
+  "CUR322": {
+    "name": "Brazilian Real",
+    "description": "SVfOguEMccjNMyihgIbXqhuhQtUwXk",
+    "code": "USD"
+  },
+  "CUR110": {
+    "name": "Euro",
+    "description": "zhtWJXRAAhZljXTRjxeyISekAotEcB",
+    "code": "EUR"
+  },
+  "CUR266": {
+    "name": "Argentine Peso",
+    "description": "LwZSdpVgsIlLLSaHwyvVIXjhoOHSCn",
+    "code": "EUR"
+  },
+  "CUR688": {
+    "name": "Argentine Peso",
+    "description": "NWOxoiHydQpttLMSMjKmXiNkCUlUan",
+    "code": "EUR"
+  },
+  "CUR932": {
+    "name": "US Dollar",
+    "description": "AAVukiBBTSqavwDWUqOTjwTjPyfqas",
+    "code": "BRL"
+  },
+  "CUR710": {
+    "name": "Argentine Peso",
+    "description": "mkoKcedqPlViZdHqWFKVTgfxLSUXOw",
+    "code": "USD"
+  },
+  "CUR174": {
+    "name": "Argentine Peso",
+    "description": "KfarCpVeZBSWTCdubIpSfMBIwyRUnL",
+    "code": "BRL"
+  },
+  "CUR101": {
+    "name": "US Dollar",
+    "description": "DFdVoNCgqOMKItNSLvArXICYWGaiAt",
+    "code": "BRL"
+  },
+  "CUR578": {
+    "name": "Euro",
+    "description": "mpzKsuxxaonVfdMxppYazrDhrzGINx",
+    "code": "USD"
+  },
+  "CUR951": {
+    "name": "Argentine Peso",
+    "description": "JpGHJJvviITBFNcMIdonVseOJerfei",
+    "code": "BRL"
+  },
+  "CUR111": {
+    "name": "Brazilian Real",
+    "description": "siGTabbROYieSWNqArtIwGfceWPPfL",
+    "code": "BRL"
+  },
+  "CUR513": {
+    "name": "Euro",
+    "description": "CaNYBvPmdbJxdQgyNqxzzXHUysCnho",
+    "code": "USD"
+  },
+  "CUR132": {
+    "name": "Euro",
+    "description": "xiANCIEUDcyPYWoANqQLhbYKHUchqD",
+    "code": "EUR"
+  },
+  "CUR854": {
+    "name": "Argentine Peso",
+    "description": "eGTgpbbCUVqdBkTICXWcDEKicYwGns",
+    "code": "USD"
+  },
+  "CUR916": {
+    "name": "Argentine Peso",
+    "description": "roobFaBGSLAmvxquanSdaFtQXIFqtQ",
+    "code": "BRL"
+  },
+  "CUR562": {
+    "name": "Euro",
+    "description": "BenbiXXGOawjNIPpwrpEqichBzSMvD",
+    "code": "ARS"
+  },
+  "CUR564": {
+    "name": "Brazilian Real",
+    "description": "kFzRMhGNCVrxjHvKAVtcvzPksBWAEB",
+    "code": "USD"
+  },
+  "CUR254": {
+    "name": "Argentine Peso",
+    "description": "fQduXIhSyuAayFKgXdyTyVUzrdjwqJ",
+    "code": "ARS"
+  },
+  "CUR329": {
+    "name": "Argentine Peso",
+    "description": "nowgrOSzVFgTWndOGaxzSgMqPAuvzP",
+    "code": "USD"
+  },
+  "CUR917": {
+    "name": "US Dollar",
+    "description": "JbTvjPXGzSEOFtpAQXDKQASzHmxcpF",
+    "code": "USD"
+  },
+  "CUR392": {
+    "name": "US Dollar",
+    "description": "gDAKEIrZlVafMdtkqKViVhETMfMIqq",
+    "code": "USD"
+  },
+  "CUR106": {
+    "name": "Argentine Peso",
+    "description": "pIwfRKZiIJhtjKsxLMGALoXfbsIODD",
+    "code": "ARS"
+  },
+  "CUR125": {
+    "name": "US Dollar",
+    "description": "arFCKBSUYywGCjiFuAdMzpDHZKYvZQ",
+    "code": "ARS"
+  },
+  "CUR406": {
+    "name": "Argentine Peso",
+    "description": "xcrmxdHwpJyEbdfbdOYfhmuKRZcdfD",
+    "code": "BRL"
+  },
+  "CUR561": {
+    "name": "Argentine Peso",
+    "description": "RXNGaJIGnsvhnFcvkKAlAXwDeKYgTI",
+    "code": "ARS"
+  },
+  "CUR674": {
+    "name": "Euro",
+    "description": "jmeyhlXtpLClbajqrccAxwpUfCzoDf",
+    "code": "ARS"
+  },
+  "CUR886": {
+    "name": "Argentine Peso",
+    "description": "EgMkdpTICmFYxkLRrYyjiSdyAKONzw",
+    "code": "EUR"
+  },
+  "CUR476": {
+    "name": "Euro",
+    "description": "tdIDVbFbyHZGtHLHcRxQdtTxhGETkR",
+    "code": "EUR"
+  },
+  "CUR269": {
+    "name": "Brazilian Real",
+    "description": "hvAuJbKiLFDIXdQsYzWbmDmIbmjMfA",
+    "code": "ARS"
+  },
+  "CUR574": {
+    "name": "Euro",
+    "description": "uDWLldNZUjtYReNDsOOWczdcgsHwcx",
+    "code": "BRL"
+  },
+  "CUR829": {
+    "name": "Argentine Peso",
+    "description": "kAfeXdfFEOBrZSmghSAcLzRvaJUpVA",
+    "code": "BRL"
+  },
+  "CUR219": {
+    "name": "Euro",
+    "description": "kNMRlQdBCMdDCDylQqJeUgGLvxYMoj",
+    "code": "ARS"
+  },
+  "CUR170": {
+    "name": "Argentine Peso",
+    "description": "CQBwBkcmPEtvhMTUBYkBndbquYNltL",
+    "code": "USD"
+  },
+  "CUR333": {
+    "name": "Euro",
+    "description": "ACcSpqcPhyjaotPTkcZmvlXrhahRAx",
+    "code": "ARS"
+  },
+  "CUR436": {
+    "name": "US Dollar",
+    "description": "wUabOIpNYWoUyvEWTNflzGPzaWGCSa",
+    "code": "ARS"
+  },
+  "CUR612": {
+    "name": "Euro",
+    "description": "dHNNVxbOYXLLaDRQmVXsnlnFgysYgn",
+    "code": "USD"
+  },
+  "CUR944": {
+    "name": "Argentine Peso",
+    "description": "UNtbzcyTzjsznMLtgiCokkvVgforxd",
+    "code": "USD"
+  },
+  "CUR399": {
+    "name": "Euro",
+    "description": "xsvVAidxccMLunrIKinCxgrMKRlEqL",
+    "code": "USD"
+  },
+  "CUR713": {
+    "name": "US Dollar",
+    "description": "XYZmoNKpBXtggWYgMfuWnfjyXLQKnN",
+    "code": "USD"
+  },
+  "CUR990": {
+    "name": "Brazilian Real",
+    "description": "kDZhCIduqTItZilnfOedtaijcerGSx",
+    "code": "EUR"
+  },
+  "CUR236": {
+    "name": "Euro",
+    "description": "vTOePdxSUqBwsPfoPPriZuazglgsMI",
+    "code": "USD"
+  },
+  "CUR108": {
+    "name": "Euro",
+    "description": "cuXSbELaowXXxdzCtGzPCvinAxfYKH",
+    "code": "USD"
+  },
+  "CUR189": {
+    "name": "Argentine Peso",
+    "description": "nXzpqnjHEDBTOJxZAwVMjDRyUkFTac",
+    "code": "USD"
+  },
+  "CUR338": {
+    "name": "Brazilian Real",
+    "description": "gJjDtlqcXuAodOUsEhcAWmKfrHTQmg",
+    "code": "ARS"
+  },
+  "CUR486": {
+    "name": "Euro",
+    "description": "jZpSTfOUyldsQbUcgnqeKwGOYvbyrm",
+    "code": "ARS"
+  },
+  "CUR717": {
+    "name": "Argentine Peso",
+    "description": "lgXbPqzJndxLSltGpJCDLqGGiBWoif",
+    "code": "ARS"
+  },
+  "CUR897": {
+    "name": "US Dollar",
+    "description": "zVuWWMtgimWGUXLkTAscDCyYFNRJpE",
+    "code": "ARS"
+  },
+  "CUR762": {
+    "name": "Euro",
+    "description": "vswTdvCrGGNYgAFrnVLqcJSuOuMRDp",
+    "code": "EUR"
+  },
+  "CUR847": {
+    "name": "US Dollar",
+    "description": "akHaXiXQcaKbbJIAlaeZcyJGdYNhRz",
+    "code": "USD"
+  },
+  "CUR876": {
+    "name": "Brazilian Real",
+    "description": "RcODygmGPVNwPMnDxgFBHyqWzzEhgB",
+    "code": "ARS"
+  },
+  "CUR192": {
+    "name": "Euro",
+    "description": "sfVlkpPvHvvhihNbZicYPsdSNXhTXb",
+    "code": "USD"
+  },
+  "CUR814": {
+    "name": "Argentine Peso",
+    "description": "QCvaEPtnihRuUpoBPQyEvjAhTwoxgu",
+    "code": "BRL"
+  },
+  "CUR665": {
+    "name": "Brazilian Real",
+    "description": "KxJzcPGyQXZXKLFlrrIWxfkzrCOpCv",
+    "code": "EUR"
+  },
+  "CUR941": {
+    "name": "US Dollar",
+    "description": "CKMeaBzNdvfOVGQtYgnOVLBFjHGYaT",
+    "code": "ARS"
+  },
+  "CUR294": {
+    "name": "Brazilian Real",
+    "description": "FigVQCQZgfRyGDrHymKNKsvxlYLhOO",
+    "code": "ARS"
+  },
+  "CUR487": {
+    "name": "Argentine Peso",
+    "description": "GROSkmqLtSdjOhNThcYMhLilVdqAuw",
+    "code": "USD"
+  },
+  "CUR364": {
+    "name": "Argentine Peso",
+    "description": "GqAjimTYyFhShufRLDMMfMJHSbemuJ",
+    "code": "BRL"
+  },
+  "CUR123": {
+    "name": "Argentine Peso",
+    "description": "NelZFRJCKrpkBbdrqzITpzDuDwLzvx",
+    "code": "BRL"
+  },
+  "CUR798": {
+    "name": "Brazilian Real",
+    "description": "ylZRSDKoKNLhgkztoRakFOjIJHQrLp",
+    "code": "ARS"
+  },
+  "CUR279": {
+    "name": "Argentine Peso",
+    "description": "usEnyNmEKpjvcSyAGtdxgCPoIHeJhV",
+    "code": "EUR"
+  },
+  "CUR390": {
+    "name": "Argentine Peso",
+    "description": "xrgVSxobNvwqgPyqWBALoSWndGRWOk",
+    "code": "EUR"
+  },
+  "CUR442": {
+    "name": "Argentine Peso",
+    "description": "nhYycYTvFsJSZugsYedVTYCvYNRWMX",
+    "code": "BRL"
+  },
+  "CUR191": {
+    "name": "Brazilian Real",
+    "description": "PyYFKCoFrvtFQOcosXRUozLuFEIiPo",
+    "code": "BRL"
+  },
+  "CUR394": {
+    "name": "US Dollar",
+    "description": "sbPdnmXoLwQEeXvGmtXmkDFNsGpCwJ",
+    "code": "BRL"
+  },
+  "CUR750": {
+    "name": "Euro",
+    "description": "uvjfcBxsggFqmCGEXTmYVlDJvoYrLt",
+    "code": "EUR"
+  },
+  "CUR744": {
+    "name": "Argentine Peso",
+    "description": "GGGWjSwtDWkEMAViZPZlkukdgWogCp",
+    "code": "USD"
+  },
+  "CUR265": {
+    "name": "US Dollar",
+    "description": "rvJPpfGiKDYCGojYXhofQwWMkFpFZT",
+    "code": "ARS"
+  },
+  "CUR502": {
+    "name": "Argentine Peso",
+    "description": "spwQVUsPyuYusggbIxILCWlEiqxJJr",
+    "code": "ARS"
+  },
+  "CUR839": {
+    "name": "Brazilian Real",
+    "description": "OJFleVztcyDCTeubfVGiKwTTtUJCSz",
+    "code": "ARS"
+  },
+  "CUR615": {
+    "name": "Argentine Peso",
+    "description": "ELWuTkdyBUaazbpNqbVfApGRYzDwSt",
+    "code": "BRL"
+  },
+  "CUR142": {
+    "name": "Argentine Peso",
+    "description": "dJrEVAkSREtKYIyBKgdMrAkkBpvvxm",
+    "code": "USD"
+  },
+  "CUR249": {
+    "name": "US Dollar",
+    "description": "mXwXsPztaJUrVzRWHYJOdvngGgCTPj",
+    "code": "USD"
+  },
+  "CUR129": {
+    "name": "Argentine Peso",
+    "description": "RbMqcaTZWfQmthsORUFEsLZZBjoFBa",
+    "code": "ARS"
+  },
+  "CUR342": {
+    "name": "Argentine Peso",
+    "description": "ZADHHdWyCjuUyDARNaNcZIhGJhvLdH",
+    "code": "ARS"
+  },
+  "CUR148": {
+    "name": "Argentine Peso",
+    "description": "mesLXoMtoyViRiBXSQrHzWpcScZluq",
+    "code": "ARS"
+  },
+  "CUR575": {
+    "name": "Brazilian Real",
+    "description": "wrOWapxIeboRAilFhGfSVJzgNAtHVa",
+    "code": "USD"
+  },
+  "CUR232": {
+    "name": "Brazilian Real",
+    "description": "ENCINiXuLxPfeWqdLorlXbHavnsDao",
+    "code": "EUR"
+  },
+  "CUR759": {
+    "name": "US Dollar",
+    "description": "yVlFqlMDmCFwoWLEyROxXUpbcUlHXV",
+    "code": "ARS"
+  },
+  "CUR453": {
+    "name": "Brazilian Real",
+    "description": "ECZlZlTyqwgPPsEmxnSFYwlyXJtRaQ",
+    "code": "USD"
+  },
+  "CUR811": {
+    "name": "Argentine Peso",
+    "description": "UkSYzclkuIoMRlhSbSfVaMWWHsTDNa",
+    "code": "EUR"
+  },
+  "CUR806": {
+    "name": "Brazilian Real",
+    "description": "qZbbPwunaDuGooBQoLqNrAqSCtFTap",
+    "code": "BRL"
+  },
+  "CUR609": {
+    "name": "Argentine Peso",
+    "description": "joKDNNZydujqVuZANlPhpdTbpDeDZZ",
+    "code": "ARS"
+  },
+  "CUR127": {
+    "name": "Argentine Peso",
+    "description": "bYaBDmTJjJpMiWLkCnikCdDEGZGeLF",
+    "code": "USD"
+  },
+  "CUR794": {
+    "name": "US Dollar",
+    "description": "WdPUPDiDkSCnBgCxCJUpEGLcaYPCsU",
+    "code": "BRL"
+  },
+  "CUR483": {
+    "name": "Argentine Peso",
+    "description": "XCBIYuVrOYXyRDSNMiHoCPFuafGEYv",
+    "code": "EUR"
+  },
+  "CUR477": {
+    "name": "Brazilian Real",
+    "description": "JgpvNyKBdwtwVeLvjqnKCAkujnkgVR",
+    "code": "BRL"
+  },
+  "CUR875": {
+    "name": "US Dollar",
+    "description": "CTytBqjZacAhdqqScKFafzhDVaFTez",
+    "code": "BRL"
+  },
+  "CUR415": {
+    "name": "Euro",
+    "description": "EBxdHZJNsnJxlgUYkgpAHCanRrCKnM",
+    "code": "BRL"
+  },
+  "CUR633": {
+    "name": "Brazilian Real",
+    "description": "lWalvQRaDKtsgDgyTruISqOrurJVyG",
+    "code": "EUR"
+  },
+  "CUR167": {
+    "name": "Argentine Peso",
+    "description": "vhIwdjVnVUoxNQfglendDdNWpMIiqV",
+    "code": "USD"
+  },
+  "CUR228": {
+    "name": "Argentine Peso",
+    "description": "ooGDuddGUwBltkfYaoeOreuSAjzilh",
+    "code": "USD"
+  },
+  "CUR157": {
+    "name": "Argentine Peso",
+    "description": "coSIxwdBXhSyTnZjQJmvRejJrdqOlg",
+    "code": "ARS"
+  },
+  "CUR641": {
+    "name": "Euro",
+    "description": "WzukcqBOvllupVanCdRyHkftfKSdYO",
+    "code": "BRL"
+  },
+  "CUR751": {
+    "name": "US Dollar",
+    "description": "JLyPehuFpPTvFSvYhVLpzwXrciDXzp",
+    "code": "BRL"
+  },
+  "CUR549": {
+    "name": "Argentine Peso",
+    "description": "JjzgCKjYdRGDMDFlneRmxljcTUJMtj",
+    "code": "ARS"
+  },
+  "CUR554": {
+    "name": "Brazilian Real",
+    "description": "PNZjJltLYABkWoLJyMXfACDEtDMtgd",
+    "code": "BRL"
+  },
+  "CUR517": {
+    "name": "Euro",
+    "description": "GeKzuMDMtmNshXKuHoMtakAJMaIgXD",
+    "code": "ARS"
+  },
+  "CUR895": {
+    "name": "Euro",
+    "description": "BvuMCXVmGKYMvDzTxShILOEQwminXW",
+    "code": "ARS"
+  },
+  "CUR694": {
+    "name": "US Dollar",
+    "description": "fqnGEikYmTuUBhpvhqIEDlOtYbwpMI",
+    "code": "EUR"
+  },
+  "CUR384": {
+    "name": "Euro",
+    "description": "mVZoRgYDEfMAVXOoLmJQFVYmRwJOge",
+    "code": "EUR"
+  },
+  "CUR402": {
+    "name": "Argentine Peso",
+    "description": "RgOiutcTWUNXLFKMjuwaEkkiWrrmQz",
+    "code": "ARS"
+  },
+  "CUR885": {
+    "name": "Euro",
+    "description": "oZgExRpvaJKQfyQkVmWcNYvjAhHdRM",
+    "code": "USD"
+  },
+  "CUR813": {
+    "name": "Brazilian Real",
+    "description": "ztntgQVfWsbcySOZQsQJWTTjWMQIBq",
+    "code": "USD"
+  },
+  "CUR720": {
+    "name": "Euro",
+    "description": "SLqLXthLzoRwzIAoLxtgEXxXXYmWUg",
+    "code": "BRL"
+  },
+  "CUR120": {
+    "name": "US Dollar",
+    "description": "oYwRbEwxjVlIdNtrnBdVjLXnupACyE",
+    "code": "USD"
+  },
+  "CUR311": {
+    "name": "Argentine Peso",
+    "description": "yMsjayJvgUtfXdGoelbLHmAoDeVxZr",
+    "code": "USD"
+  },
+  "CUR879": {
+    "name": "Euro",
+    "description": "rSUXgwSneWAbjEapKytMIrvbPhdlMC",
+    "code": "BRL"
+  },
+  "CUR779": {
+    "name": "US Dollar",
+    "description": "WfAVABkxjUvwlGpyLAwsJCVBhiIsFH",
+    "code": "ARS"
+  },
+  "CUR852": {
+    "name": "Brazilian Real",
+    "description": "NcEMoLOTBOiuFxhtvSbnFHJMIipESb",
+    "code": "ARS"
+  },
+  "CUR280": {
+    "name": "Brazilian Real",
+    "description": "SqMdTluPnYbSluMoSEXeVozHKnDhVN",
+    "code": "ARS"
+  },
+  "CUR903": {
+    "name": "Argentine Peso",
+    "description": "uUvzmFXFnaFYzZfBAoCyqmqZrNLCTk",
+    "code": "EUR"
+  },
+  "CUR414": {
+    "name": "Argentine Peso",
+    "description": "WINkZXOqaJvnfBqFiEXsdxosIobWyF",
+    "code": "ARS"
+  },
+  "CUR700": {
+    "name": "Argentine Peso",
+    "description": "pEohpxklklJuJFEdwDgUMtGsPKiRdL",
+    "code": "ARS"
+  },
+  "CUR988": {
+    "name": "Brazilian Real",
+    "description": "sQAknrFapDLPEJvqtPcqYMrNzRfFSG",
+    "code": "ARS"
+  },
+  "CUR321": {
+    "name": "Argentine Peso",
+    "description": "WsaXhCwjJuVGYbtUGGitlcdvBEUEIT",
+    "code": "EUR"
+  },
+  "CUR616": {
+    "name": "US Dollar",
+    "description": "GAfdWkfpAeUfHihdjBzZXiZJIQglqP",
+    "code": "EUR"
+  },
+  "CUR888": {
+    "name": "US Dollar",
+    "description": "BhLgfXFKhxPpxicBJvInislkTKKzSC",
+    "code": "BRL"
+  },
+  "CUR161": {
+    "name": "Brazilian Real",
+    "description": "aacOWZvoKzMjMubiJTJqbfuMHkQbgm",
+    "code": "USD"
+  },
+  "CUR131": {
+    "name": "Brazilian Real",
+    "description": "rpOcfjeihBoSpDdlqqUhclbeYmFYXQ",
+    "code": "BRL"
+  },
+  "CUR533": {
+    "name": "Euro",
+    "description": "pXhuThHOsvbpGGNoiBLVZJibTadQiu",
+    "code": "EUR"
+  },
+  "CUR610": {
+    "name": "US Dollar",
+    "description": "IgEqitrVRsjGlvHwYKdzHvzhKeQSlF",
+    "code": "USD"
+  },
+  "CUR695": {
+    "name": "Argentine Peso",
+    "description": "cUikoJrYlwgPwsJuMZzTxltzrWzipU",
+    "code": "ARS"
+  },
+  "CUR434": {
+    "name": "US Dollar",
+    "description": "OBxqGXQvyBrdrxzBCKjaFgYaxtECoi",
+    "code": "EUR"
+  },
+  "CUR865": {
+    "name": "Brazilian Real",
+    "description": "NIIPDnevFtVPkYZQYOTcXzsqYehulM",
+    "code": "EUR"
+  },
+  "CUR776": {
+    "name": "Brazilian Real",
+    "description": "hBBITylqPhHCCuFNjcXvjCEDkjTMrE",
+    "code": "EUR"
+  },
+  "CUR488": {
+    "name": "Euro",
+    "description": "tLArHDAWiTkTQmSLEhjENeAldNriGQ",
+    "code": "BRL"
+  },
+  "CUR693": {
+    "name": "Brazilian Real",
+    "description": "tcROaHUltJBVoJKNJLjjHGYKWvUEsk",
+    "code": "EUR"
+  },
+  "CUR627": {
+    "name": "Argentine Peso",
+    "description": "hnDQWTsKKEaFsJObTQEgjDHsIYrBWX",
+    "code": "BRL"
+  },
+  "CUR136": {
+    "name": "Argentine Peso",
+    "description": "pELtaUUITLKgXdaaSwczhOxoXmfdnT",
+    "code": "EUR"
+  },
+  "CUR857": {
+    "name": "US Dollar",
+    "description": "VCfrYnqLHVgZefGtMyAoEaypgcIAdp",
+    "code": "EUR"
+  },
+  "CUR560": {
+    "name": "Argentine Peso",
+    "description": "pRinaLEyNBjSFgbUvUAOnZTjmgVxOR",
+    "code": "ARS"
+  },
+  "CUR519": {
+    "name": "US Dollar",
+    "description": "QGVuxLoIdoLxLmaTTBHKZWcSKrwwfh",
+    "code": "USD"
+  },
+  "CUR344": {
+    "name": "Argentine Peso",
+    "description": "LzrVSUiUhWdVPNoxqWRzaeIJnLLdqs",
+    "code": "EUR"
+  },
+  "CUR791": {
+    "name": "Euro",
+    "description": "WbQZOQGbGlmFCfTcOxFmPHSaclFVmL",
+    "code": "BRL"
+  },
+  "CUR323": {
+    "name": "Brazilian Real",
+    "description": "GasJqqEshPNCAcbgFgEyodYSLAJRTX",
+    "code": "ARS"
+  },
+  "CUR634": {
+    "name": "Argentine Peso",
+    "description": "KWDVHwlVOyNCbcWJikdynQlHqppUlB",
+    "code": "BRL"
+  },
+  "CUR246": {
+    "name": "Euro",
+    "description": "pbEvCpdGcqbTZFFKnjmRXGzECzlpKg",
+    "code": "EUR"
+  },
+  "CUR283": {
+    "name": "Euro",
+    "description": "WUcfiOsMGYXBKBoqTclhXMREktlkha",
+    "code": "BRL"
+  },
+  "CUR867": {
+    "name": "Euro",
+    "description": "fhHTnfczaQmOQZxXuhhMhEVCVEfDxU",
+    "code": "BRL"
+  },
+  "CUR810": {
+    "name": "Euro",
+    "description": "gODBsnpJpVNRJvifErlSypIDuQDuce",
+    "code": "USD"
+  },
+  "CUR102": {
+    "name": "Argentine Peso",
+    "description": "FpmdQPWTVDGgBZjPedYyhbRFvdUHQU",
+    "code": "EUR"
+  },
+  "CUR956": {
+    "name": "Euro",
+    "description": "HSuNWauJTrxGOyiTERkVBtvZKCdGFJ",
+    "code": "USD"
+  },
+  "CUR455": {
+    "name": "Argentine Peso",
+    "description": "yffWsymIBlUJsDFawgpyiDkWSQgGrd",
+    "code": "USD"
+  },
+  "CUR210": {
+    "name": "Euro",
+    "description": "PYyToetmVnASaexZzQCpVKiEeHiqxg",
+    "code": "BRL"
+  },
+  "CUR718": {
+    "name": "Argentine Peso",
+    "description": "aENFmKnHrHusvUmknQgCqmOWfpPILa",
+    "code": "ARS"
+  },
+  "CUR539": {
+    "name": "Euro",
+    "description": "uYlyXtiMOVaxnHfRirJrPsKoDSDAGv",
+    "code": "ARS"
+  },
+  "CUR534": {
+    "name": "US Dollar",
+    "description": "xqyDvmJxgenQTHFaJSLOVKvFaQxwWv",
+    "code": "ARS"
+  },
+  "CUR766": {
+    "name": "US Dollar",
+    "description": "uysayRikHqcabxVDwuvbfLYUCkosfd",
+    "code": "ARS"
+  },
+  "CUR749": {
+    "name": "Brazilian Real",
+    "description": "BGxnzNFOUPdYDHWYMdVrFhHmHbNGpu",
+    "code": "EUR"
+  },
+  "CUR314": {
+    "name": "Argentine Peso",
+    "description": "nOMPyNeWmsxfUKWzPUUnsQSeqdomay",
+    "code": "EUR"
+  },
+  "CUR547": {
+    "name": "Euro",
+    "description": "RwREjrnUrkpQVXqOyUrLKYtZdIHRYK",
+    "code": "EUR"
+  },
+  "CUR396": {
+    "name": "Argentine Peso",
+    "description": "UtyqsrHUOkfAGZNsMhVaEQyPPCpPrb",
+    "code": "USD"
+  },
+  "CUR154": {
+    "name": "Euro",
+    "description": "NDryiIUHmIRjPYAvsiYWfusopulUQt",
+    "code": "BRL"
+  },
+  "CUR346": {
+    "name": "Euro",
+    "description": "zFuinGHFLYrTKUEozjciAAQWptqFkF",
+    "code": "ARS"
+  },
+  "CUR509": {
+    "name": "US Dollar",
+    "description": "IcPuaOVkPpiybhDVQVWLOHQiIWeyBt",
+    "code": "EUR"
+  },
+  "CUR451": {
+    "name": "Argentine Peso",
+    "description": "SEUclrVhVUqtPTlfAuwoAEDAGFbown",
+    "code": "USD"
+  },
+  "CUR247": {
+    "name": "Argentine Peso",
+    "description": "mMpHzplgzwnSRGqCdjiaWnsPHOsXdA",
+    "code": "ARS"
+  },
+  "CUR587": {
+    "name": "US Dollar",
+    "description": "qMbsiGWClgZBFBVkwnoiVgFEWtaXyG",
+    "code": "BRL"
+  },
+  "CUR734": {
+    "name": "Argentine Peso",
+    "description": "KVGDqZMwAHKOpMdQrBNysTdulFCVwt",
+    "code": "ARS"
+  },
+  "CUR858": {
+    "name": "Argentine Peso",
+    "description": "nsOkCSlTVBxoQCcQdRpINwqGNYyFXs",
+    "code": "EUR"
+  },
+  "CUR305": {
+    "name": "Euro",
+    "description": "JEpVIDMApCigJLVcYmznPJdmzcKgGU",
+    "code": "EUR"
+  },
+  "CUR843": {
+    "name": "Argentine Peso",
+    "description": "BFDWLiXVJjGbICPgisASQMiHRqGvGC",
+    "code": "BRL"
+  },
+  "CUR144": {
+    "name": "Argentine Peso",
+    "description": "dToQVVatWVtIbLYEcZOTtFXxjDixgT",
+    "code": "EUR"
+  },
+  "CUR880": {
+    "name": "Euro",
+    "description": "ihMjKEBzPdtKZbMGVovGjCNzcWXhBA",
+    "code": "EUR"
+  },
+  "CUR188": {
+    "name": "Brazilian Real",
+    "description": "kuNDJBcpGPSLuUiJUqhALWtJHdbczL",
+    "code": "USD"
+  },
+  "CUR584": {
+    "name": "Argentine Peso",
+    "description": "VNNJKszZKkzUYAPotqlrazDGZZLWBC",
+    "code": "BRL"
+  },
+  "CUR901": {
+    "name": "Argentine Peso",
+    "description": "NcCmtMssWGkXbqRmynscpnZHNWWaUA",
+    "code": "USD"
+  },
+  "CUR521": {
+    "name": "Euro",
+    "description": "osGZkWbcBqnfzMEAdczQgYdNqHguYb",
+    "code": "BRL"
+  },
+  "CUR963": {
+    "name": "Argentine Peso",
+    "description": "PiYQxmlCEEGJasDCOTYJRcsRiDLsAP",
+    "code": "USD"
+  },
+  "CUR471": {
+    "name": "Euro",
+    "description": "bjWgAKbvFtWNgwjmrbdLBfRoNBTouo",
+    "code": "BRL"
+  },
+  "CUR126": {
+    "name": "Brazilian Real",
+    "description": "qpCjdYGdKPxvjQQenZOfWZmpgEjseu",
+    "code": "ARS"
+  },
+  "CUR413": {
+    "name": "US Dollar",
+    "description": "QijZJWvVlWxSLAvpBypjFZkXCNYSop",
+    "code": "USD"
+  },
+  "CUR680": {
+    "name": "Argentine Peso",
+    "description": "pQYFQsliglRXMZuQjbpYtauKDzGoVd",
+    "code": "USD"
+  },
+  "CUR404": {
+    "name": "Euro",
+    "description": "ohSsQlwHDNccbarMGsbDoxaAjjdWjM",
+    "code": "ARS"
+  },
+  "CUR444": {
+    "name": "US Dollar",
+    "description": "xEwfntElmyZCjmjZzwZrDUonrqBbHU",
+    "code": "ARS"
+  },
+  "CUR984": {
+    "name": "Argentine Peso",
+    "description": "rQxdXMGPNMdVnhzLOBOCBfdlIfZeQV",
+    "code": "BRL"
+  },
+  "CUR244": {
+    "name": "US Dollar",
+    "description": "IQwASHnfCIaIZxWATQcUEWAKVzUxLH",
+    "code": "BRL"
+  },
+  "CUR550": {
+    "name": "Brazilian Real",
+    "description": "KtGzsQqrwkXRPuDDRmrTQlBCLyZWDh",
+    "code": "BRL"
+  },
+  "CUR969": {
+    "name": "US Dollar",
+    "description": "OkGxprDajlHNZJekmziWNGEpAeDzgq",
+    "code": "USD"
+  },
+  "CUR272": {
+    "name": "Brazilian Real",
+    "description": "BhoQJxGwSJHZRvQAOlKyTQytbrZwMZ",
+    "code": "EUR"
+  },
+  "CUR302": {
+    "name": "Euro",
+    "description": "TMmitctKJrDyoZSVhmAoERkPconORQ",
+    "code": "USD"
+  },
+  "CUR565": {
+    "name": "US Dollar",
+    "description": "EIqhDNczcmJuWtALZdoexemYXTExVN",
+    "code": "ARS"
+  },
+  "CUR497": {
+    "name": "Argentine Peso",
+    "description": "pfbQxrUlCuloDLiJjyMsUCHcNSjFlC",
+    "code": "ARS"
+  },
+  "CUR482": {
+    "name": "Argentine Peso",
+    "description": "XgzIqNVxyGCAtXRRWgZgKULmgAmCXi",
+    "code": "ARS"
+  },
+  "CUR601": {
+    "name": "Brazilian Real",
+    "description": "jRHXOvYDhSPjQYsnpHyxHzhOVcSSue",
+    "code": "EUR"
+  },
+  "CUR909": {
+    "name": "US Dollar",
+    "description": "omYgsKfgUjlPnWReyLxwjsPLnEuSYb",
+    "code": "EUR"
+  },
+  "CUR381": {
+    "name": "US Dollar",
+    "description": "GQaDWpGScwKUQdvacIYZRLcCCnwCTG",
+    "code": "BRL"
+  },
+  "CUR385": {
+    "name": "Euro",
+    "description": "GROuQHXevZTYUiuAOtzDcjiEJkxhHi",
+    "code": "EUR"
+  },
+  "CUR301": {
+    "name": "Brazilian Real",
+    "description": "TzCqzGRIvbxkEspiiyETBQIQLYbKlI",
+    "code": "BRL"
+  },
+  "CUR520": {
+    "name": "Brazilian Real",
+    "description": "zHlKdbUjFwigCpDeedAOwzRcwUKind",
+    "code": "BRL"
+  },
+  "CUR913": {
+    "name": "Euro",
+    "description": "TDPectjBKktUWfbTzyHevguhEBOBvl",
+    "code": "EUR"
+  },
+  "CUR510": {
+    "name": "Euro",
+    "description": "ltgoUiTuTlZELxxlszQWcHIZaekdHb",
+    "code": "USD"
+  },
+  "CUR935": {
+    "name": "US Dollar",
+    "description": "WdpcGNLqkcjXSwseJSmnMJOfjUYynn",
+    "code": "EUR"
+  },
+  "CUR182": {
+    "name": "US Dollar",
+    "description": "DhWFyXSTppoBndrwSvDglJgKPitBTR",
+    "code": "EUR"
+  },
+  "CUR408": {
+    "name": "US Dollar",
+    "description": "EVsptnyvfnlrTfBkwSBvrUzKJaRvZS",
+    "code": "USD"
+  },
+  "CUR773": {
+    "name": "Argentine Peso",
+    "description": "BhMgkontZCkuoXYhmtBxbYoQXhXLHv",
+    "code": "BRL"
+  },
+  "CUR741": {
+    "name": "Argentine Peso",
+    "description": "BdqLGACkKfGCZCUKkNHgRKnqHDfXqh",
+    "code": "USD"
+  },
+  "CUR583": {
+    "name": "Brazilian Real",
+    "description": "HvPgyKnHaBkhflzUPNkQLXYggyrPlp",
+    "code": "USD"
+  },
+  "CUR253": {
+    "name": "Argentine Peso",
+    "description": "MrxsSITghoGzXtOnydvpNvHrKfTHcM",
+    "code": "ARS"
+  },
+  "CUR775": {
+    "name": "US Dollar",
+    "description": "RoVqgwiuITDHtRkfPqwhOMxbkevhMc",
+    "code": "BRL"
+  },
+  "CUR658": {
+    "name": "Argentine Peso",
+    "description": "CyVAPCqaaaDyzgxFXUJKKSaVRPwDCr",
+    "code": "EUR"
+  },
+  "CUR304": {
+    "name": "Argentine Peso",
+    "description": "CBltUNhlAVVLNHzwtHdpAeCpRTuoFy",
+    "code": "ARS"
+  },
+  "CUR355": {
+    "name": "Argentine Peso",
+    "description": "EJiHTPiQfYzKfOLDBDmRSytWWOMOXg",
+    "code": "BRL"
+  },
+  "CUR596": {
+    "name": "US Dollar",
+    "description": "fOEFYKjNOmgpanfWnsEAdKwOCKUhCM",
+    "code": "BRL"
+  },
+  "CUR650": {
+    "name": "Argentine Peso",
+    "description": "EifJKzwGHQMatNjRUfNbLNfPCwDVBw",
+    "code": "EUR"
+  },
+  "CUR939": {
+    "name": "Argentine Peso",
+    "description": "SunWGLDgRqVlJfKpsTebORmDKWXcYq",
+    "code": "EUR"
+  },
+  "CUR361": {
+    "name": "Euro",
+    "description": "qsrBAybZcuNNrDxbeCSRtufNVzvscN",
+    "code": "USD"
+  },
+  "CUR987": {
+    "name": "US Dollar",
+    "description": "FgoKnuKyZMOYAPiLnpOtLYiBwgpSYT",
+    "code": "EUR"
+  },
+  "CUR696": {
+    "name": "Argentine Peso",
+    "description": "CNQmApbHZJuYMRBbTinxBgKnIOCYot",
+    "code": "ARS"
+  },
+  "CUR185": {
+    "name": "Argentine Peso",
+    "description": "XZLIlOdJkQlsFhIYnOzpmMSFPZBYHY",
+    "code": "ARS"
+  },
+  "CUR598": {
+    "name": "Argentine Peso",
+    "description": "WyUdWlLqIOFMqhHOiTgeRFVgIlidRq",
+    "code": "EUR"
+  },
+  "CUR152": {
+    "name": "Brazilian Real",
+    "description": "ftlaDvEGThsyiayuiZCMIVfyLPUajA",
+    "code": "USD"
+  },
+  "CUR661": {
+    "name": "Euro",
+    "description": "iiTjUTcAbYACDVTzClSlSjdvDnFjeA",
+    "code": "ARS"
+  },
+  "CUR746": {
+    "name": "Argentine Peso",
+    "description": "waOSleFpxKlHXGGephLowfTYUFBBNc",
+    "code": "EUR"
+  },
+  "CUR902": {
+    "name": "US Dollar",
+    "description": "MNxbBoTfSHdnUEoqQqfvVrdlbDpcrv",
+    "code": "BRL"
+  },
+  "CUR369": {
+    "name": "Brazilian Real",
+    "description": "ZtNviDLsPcJPkFQgGzPbIpXKfrROQv",
+    "code": "EUR"
+  },
+  "CUR431": {
+    "name": "US Dollar",
+    "description": "DLafEDEQMwIAndKNcrGGdpUPfHgwAv",
+    "code": "ARS"
+  },
+  "CUR996": {
+    "name": "Brazilian Real",
+    "description": "opeiktKhZzyKtTNmJtmdSAHVmcPGHR",
+    "code": "USD"
+  },
+  "CUR708": {
+    "name": "Brazilian Real",
+    "description": "KBrpxSUvZLXhzLaefQZLqHxeppHQnM",
+    "code": "ARS"
+  },
+  "CUR500": {
+    "name": "US Dollar",
+    "description": "OhpULBSYkWWCjUhpylMcrivUIDCWdd",
+    "code": "USD"
+  },
+  "CUR320": {
+    "name": "Brazilian Real",
+    "description": "MCSLQzwWlkWHunoLOBVEdespAbinFl",
+    "code": "BRL"
+  },
+  "CUR416": {
+    "name": "Argentine Peso",
+    "description": "jopEBTcIRwpTkWhGCgAqkRygEEMmYF",
+    "code": "BRL"
+  },
+  "CUR624": {
+    "name": "US Dollar",
+    "description": "FgTcCkcNyqSZtEfoqyJkoRgsfUkPvk",
+    "code": "BRL"
+  },
+  "CUR463": {
+    "name": "Euro",
+    "description": "bsPnTGcSJkjTjpmiwluFEKJlcJuJmt",
+    "code": "USD"
+  },
+  "CUR898": {
+    "name": "Euro",
+    "description": "qOEzKvMTPFFUehcIbfwmreGZONdfFm",
+    "code": "EUR"
+  },
+  "CUR220": {
+    "name": "Brazilian Real",
+    "description": "IGDLybxXQCFjukXHJjVDLlkhONgAlS",
+    "code": "USD"
+  },
+  "CUR466": {
+    "name": "Brazilian Real",
+    "description": "icjkkHhRcfcoPGTFLdFdbXjiaaHBwQ",
+    "code": "ARS"
+  },
+  "CUR523": {
+    "name": "US Dollar",
+    "description": "UVSTQlhmVKcqcGwGlnLUiOwYBbIlcj",
+    "code": "BRL"
+  },
+  "CUR983": {
+    "name": "Euro",
+    "description": "AogxpMVlgTOuPnvynVDLMMGAswMRvf",
+    "code": "USD"
+  },
+  "CUR632": {
+    "name": "Brazilian Real",
+    "description": "ZSFyqBVDspmgPbGZIwPRfmPWAyIDXD",
+    "code": "BRL"
+  },
+  "CUR340": {
+    "name": "US Dollar",
+    "description": "lFhSWAGWPsHQcpWapFWqkPJpixThin",
+    "code": "ARS"
+  },
+  "CUR374": {
+    "name": "Argentine Peso",
+    "description": "McJpJVYQYOyqrjRFQZFROjJAUtKhYw",
+    "code": "EUR"
+  },
+  "CUR315": {
+    "name": "Argentine Peso",
+    "description": "VWBWxYtzSCzGnnTUnMKmyDkVCwhzsX",
+    "code": "USD"
+  },
+  "CUR424": {
+    "name": "US Dollar",
+    "description": "LzvtEudvbwKDIgHsjjZTIkAZTHnRQO",
+    "code": "ARS"
+  },
+  "CUR950": {
+    "name": "Euro",
+    "description": "gkbJWvogdOgtnxQiwuiAUsMRNRfdap",
+    "code": "BRL"
+  },
+  "CUR994": {
+    "name": "Euro",
+    "description": "sWyfvniAkvZfFEbmicCrlVnvCARZtD",
+    "code": "USD"
+  },
+  "CUR275": {
+    "name": "US Dollar",
+    "description": "QBxDmVoZnhISwLXTUjQYuLYmuvciyl",
+    "code": "EUR"
+  },
+  "CUR468": {
+    "name": "US Dollar",
+    "description": "MmNPDwcHcDmJWOxHfQIwLDMsBnKHen",
+    "code": "ARS"
+  },
+  "CUR179": {
+    "name": "US Dollar",
+    "description": "sPpIXrAoftjrslKXzSSvmVIKCAlLFq",
+    "code": "EUR"
+  },
+  "CUR165": {
+    "name": "US Dollar",
+    "description": "nzhRnLDDvkUszcZIntpPmRZqeOFofD",
+    "code": "BRL"
+  },
+  "CUR251": {
+    "name": "Brazilian Real",
+    "description": "UKPGvaPNQaLRCbTcUIpIpPcMJKnfGB",
+    "code": "USD"
+  },
+  "CUR887": {
+    "name": "Euro",
+    "description": "xlPPfwvWdXkoacBuIyEkbAcDXrbqDR",
+    "code": "USD"
+  },
+  "CUR757": {
+    "name": "Brazilian Real",
+    "description": "zotzfMdTTUBCLFfRXsrDumzZpXOXen",
+    "code": "USD"
+  },
+  "CUR559": {
+    "name": "Euro",
+    "description": "EvflOwFtmOvfuPLlqeUAepWCYfaLhD",
+    "code": "BRL"
+  },
+  "CUR198": {
+    "name": "Euro",
+    "description": "XRsSyEeeaJiJOSRRNNjIwtyNKZhmFo",
+    "code": "USD"
+  },
+  "CUR295": {
+    "name": "Argentine Peso",
+    "description": "SCmAgQlhcHnLOrmzBAhoUZEEZRBpIl",
+    "code": "BRL"
+  },
+  "CUR704": {
+    "name": "US Dollar",
+    "description": "LRpOEixLkMUFlhLiGEYSfxBMqmfGBH",
+    "code": "BRL"
+  },
+  "CUR485": {
+    "name": "Argentine Peso",
+    "description": "pcAdKZZaGtbSNqCJWydBAsDRaVlqEb",
+    "code": "EUR"
+  },
+  "CUR589": {
+    "name": "Argentine Peso",
+    "description": "szwfOZVbrEnMkjtCiYziOCHLypzIMU",
+    "code": "USD"
+  },
+  "CUR729": {
+    "name": "US Dollar",
+    "description": "jRrMaQwWcJBSUwYCgFgOvqRkaHhXLh",
+    "code": "EUR"
+  },
+  "CUR989": {
+    "name": "Euro",
+    "description": "RCBUWLRdQYarxzRCSkedxVOoSqomPT",
+    "code": "EUR"
+  },
+  "CUR256": {
+    "name": "US Dollar",
+    "description": "BYJeHZHPmzUwqpjGAAVovNZPqruGDI",
+    "code": "ARS"
+  },
+  "CUR920": {
+    "name": "Euro",
+    "description": "zNhvBwpcHqRDLPbiEadrgeonURzfiD",
+    "code": "USD"
+  },
+  "CUR296": {
+    "name": "Euro",
+    "description": "bMFSpyXbTCYhFaUYaPePRyhWPGKnIe",
+    "code": "BRL"
+  },
+  "CUR924": {
+    "name": "Euro",
+    "description": "iiPhLWMXnCtDYfZmhsSrESoErbJCXK",
+    "code": "BRL"
+  },
+  "CUR368": {
+    "name": "Argentine Peso",
+    "description": "lOyvRMwiZMHZiHHoVMziQhOPkXkrSS",
+    "code": "ARS"
+  },
+  "CUR430": {
+    "name": "US Dollar",
+    "description": "JbavvbMJtDosZntAYfGpmbJFdZfOHy",
+    "code": "BRL"
+  },
+  "CUR938": {
+    "name": "US Dollar",
+    "description": "fnxThansUXBwLjmqWqaZwDczUzjSCK",
+    "code": "USD"
+  },
+  "CUR929": {
+    "name": "Euro",
+    "description": "QnBEWjsTOZkPOKRoJVMfTGWBuUUBOI",
+    "code": "BRL"
+  },
+  "CUR922": {
+    "name": "US Dollar",
+    "description": "UqSVZAIFEoMaJjGtnTXYeaiHxigttf",
+    "code": "BRL"
+  },
+  "CUR548": {
+    "name": "Brazilian Real",
+    "description": "uMxgimCuGYUZdBAWUtwFaATutLqNyA",
+    "code": "BRL"
+  },
+  "CUR397": {
+    "name": "US Dollar",
+    "description": "NRBayFwAPBpLlaMhUOgTPaGLHanHlH",
+    "code": "USD"
+  },
+  "CUR504": {
+    "name": "Argentine Peso",
+    "description": "FwBgakAfYksldMoUZdmHRFFCFJoSeW",
+    "code": "EUR"
+  },
+  "CUR635": {
+    "name": "Argentine Peso",
+    "description": "frcssRUJkVwEcApaniBmIfHskDVHUS",
+    "code": "ARS"
+  },
+  "CUR765": {
+    "name": "Euro",
+    "description": "uXYJexqokyYEDTNxCPMnVPASiZWhbg",
+    "code": "ARS"
+  },
+  "CUR173": {
+    "name": "Euro",
+    "description": "ADpQfJtPHyUnQObGlBjOyKASklWsHd",
+    "code": "ARS"
+  },
+  "CUR318": {
+    "name": "US Dollar",
+    "description": "DRsIgfzRRodzsojDzBNMRsvVwazkRh",
+    "code": "ARS"
+  },
+  "CUR558": {
+    "name": "Euro",
+    "description": "FDfRIJooXVOEBgYdKjtomXkwHhSAwW",
+    "code": "ARS"
+  },
+  "CUR600": {
+    "name": "Euro",
+    "description": "NfmKFJUZDaMDAlZuxUyWJaHzGXewzV",
+    "code": "BRL"
+  },
+  "CUR919": {
+    "name": "Euro",
+    "description": "dksyJFFdtIhrOJuHParTCFVCbDJvcX",
+    "code": "BRL"
+  },
+  "CUR285": {
+    "name": "Euro",
+    "description": "zFHlDAhIAKIBYxqRXLWmXgYiVelcYO",
+    "code": "ARS"
+  },
+  "CUR199": {
+    "name": "US Dollar",
+    "description": "fLChmwXYNcPCSEQDbROPkoINmeNSHn",
+    "code": "ARS"
+  },
+  "CUR372": {
+    "name": "US Dollar",
+    "description": "zjLinoAdHZFjVRIlhxUEKuMZPBYyDg",
+    "code": "BRL"
+  },
+  "CUR261": {
+    "name": "US Dollar",
+    "description": "gysjLsUjaEnhLVLnXEmLZppQUzWPek",
+    "code": "USD"
+  },
+  "CUR850": {
+    "name": "Argentine Peso",
+    "description": "hXhbzHnzXUBqJnkIMzAgXoATynVFmv",
+    "code": "ARS"
+  },
+  "CUR904": {
+    "name": "US Dollar",
+    "description": "MpNamqfBJcPpvsnmfVGseGHXqnoAWj",
+    "code": "BRL"
+  },
+  "CUR307": {
+    "name": "Argentine Peso",
+    "description": "dXJRdgESCwcoYozpeaXwFlUeNwiHUP",
+    "code": "USD"
+  },
+  "CUR648": {
+    "name": "Argentine Peso",
+    "description": "rbIrwzIwOXqrHTeJSanBTtxJlKCoia",
+    "code": "USD"
+  },
+  "CUR666": {
+    "name": "Argentine Peso",
+    "description": "uVvrFXTFNPnOKOsNKZnwZEnYrqCHet",
+    "code": "BRL"
+  },
+  "CUR595": {
+    "name": "Argentine Peso",
+    "description": "hcdTPttsUnenrixnLNAPOWXzHePfDQ",
+    "code": "ARS"
+  },
+  "CUR114": {
+    "name": "Euro",
+    "description": "wluFJfOSLhlezkEvLHWSJAZRnENSuQ",
+    "code": "BRL"
+  },
+  "CUR826": {
+    "name": "Brazilian Real",
+    "description": "MjgnlHtufIoapGbdDwHcZAyDFnkoas",
+    "code": "USD"
+  },
+  "CUR512": {
+    "name": "US Dollar",
+    "description": "jtHFyVdYfxcrRijEDeCUdNdiUaNplo",
+    "code": "BRL"
+  },
+  "CUR883": {
+    "name": "Euro",
+    "description": "LDpzHduKlbunHfTNZiGBAWYjEsIGRk",
+    "code": "BRL"
+  },
+  "CUR878": {
+    "name": "Argentine Peso",
+    "description": "uOSECUTIhqYejxnwTZFfBKVAckkEgm",
+    "code": "ARS"
+  },
+  "CUR834": {
+    "name": "Euro",
+    "description": "hhntwEaBJtfTbmIKMoZjfyCKxZaBpA",
+    "code": "BRL"
+  },
+  "CUR276": {
+    "name": "Brazilian Real",
+    "description": "KNGHAdoYgiNbrlGnboMCVpuxHTfCMW",
+    "code": "ARS"
+  },
+  "CUR237": {
+    "name": "Argentine Peso",
+    "description": "APSJNVfObBAFaVKTQkrmzMIEzbrUiy",
+    "code": "EUR"
+  },
+  "CUR786": {
+    "name": "Argentine Peso",
+    "description": "YAraontjNraFsURgqBJEfIuxvdaWgO",
+    "code": "BRL"
+  },
+  "CUR211": {
+    "name": "Euro",
+    "description": "wMZkkLLqrxRqhYlukoATgEFXTekQyG",
+    "code": "ARS"
+  },
+  "CUR130": {
+    "name": "Euro",
+    "description": "wNwKyolNQnTyOHSXVQiuMMoeflSWhs",
+    "code": "BRL"
+  },
+  "CUR802": {
+    "name": "Brazilian Real",
+    "description": "UTLDccBSCWiVMIdxYkXmSDCFUlbkWe",
+    "code": "ARS"
+  },
+  "CUR239": {
+    "name": "Argentine Peso",
+    "description": "NkOpfPFNjPZTGaDTmAZlGfkInsXgsv",
+    "code": "USD"
+  },
+  "CUR731": {
+    "name": "Brazilian Real",
+    "description": "hLCAXvbPaIbHZHLhlIAbHCfAmwQwyJ",
+    "code": "EUR"
+  },
+  "CUR118": {
+    "name": "US Dollar",
+    "description": "gJhTBCohaVTUIkrLvuuzsoAVlHRhIw",
+    "code": "EUR"
+  },
+  "CUR536": {
+    "name": "US Dollar",
+    "description": "dzpuUEFyMQkAAupwVySMpXxmpBUrVz",
+    "code": "EUR"
+  },
+  "CUR761": {
+    "name": "Euro",
+    "description": "dhPwJiLhtZRmQYqmllMTOjwmtPuHPC",
+    "code": "BRL"
+  },
+  "CUR412": {
+    "name": "Euro",
+    "description": "bQRyPhpMbzdmWBPZIDonCZFKMBtqwZ",
+    "code": "EUR"
+  },
+  "CUR927": {
+    "name": "US Dollar",
+    "description": "ifBbddaokpnaSpTFBCXvqLFIDwJNAX",
+    "code": "USD"
+  },
+  "CUR785": {
+    "name": "Argentine Peso",
+    "description": "rDMAktEoDmpGBhfdCnUuHpSNusJoZe",
+    "code": "BRL"
+  },
+  "CUR905": {
+    "name": "US Dollar",
+    "description": "fvAGEKooTLdWBsFRvlMDPZvQkSaaSI",
+    "code": "EUR"
+  },
+  "CUR172": {
+    "name": "US Dollar",
+    "description": "KwAoRfweEzLKgGQZbjYiZcgeMTohVO",
+    "code": "USD"
+  },
+  "CUR716": {
+    "name": "Euro",
+    "description": "pnHPwOHbxHProbxooBbtEAzIDXTTDM",
+    "code": "BRL"
+  },
+  "CUR546": {
+    "name": "Argentine Peso",
+    "description": "VJElysowTAaCRjEPEnmxFiGqUeVFMb",
+    "code": "ARS"
+  },
+  "CUR292": {
+    "name": "Euro",
+    "description": "SESIjrfoQJIXjhbkHPMLUmdXKsMWrQ",
+    "code": "USD"
+  },
+  "CUR907": {
+    "name": "Argentine Peso",
+    "description": "bMBVlJMURNQvreKgLKQGtRKDgUbTZO",
+    "code": "USD"
+  },
+  "CUR673": {
+    "name": "US Dollar",
+    "description": "nFiCsBanqqkaeXZZJtmllvZnWKEEPN",
+    "code": "BRL"
+  },
+  "CUR367": {
+    "name": "Argentine Peso",
+    "description": "eaTgqaImSDODLZOFpZRLanuYmTFJrj",
+    "code": "EUR"
+  },
+  "CUR933": {
+    "name": "Euro",
+    "description": "SUxXuFBVopqNsZBGOIjyivCibnEQGr",
+    "code": "EUR"
+  },
+  "CUR425": {
+    "name": "Brazilian Real",
+    "description": "efbEdaqYPzKYVwrclBjEXRMHPLqLmu",
+    "code": "ARS"
+  },
+  "CUR824": {
+    "name": "US Dollar",
+    "description": "BovYAdLcTlUUGKwpzwJSbPGbacBKWH",
+    "code": "USD"
+  },
+  "CUR715": {
+    "name": "Euro",
+    "description": "GPSOwmboDYKmkcvqiHQoyzXMiAgjYV",
+    "code": "USD"
+  },
+  "CUR267": {
+    "name": "Brazilian Real",
+    "description": "IKRjCBmFIGxcqrOGxQuWTTAvLAOZpy",
+    "code": "USD"
+  },
+  "CUR508": {
+    "name": "US Dollar",
+    "description": "RqisawykRhVOAzWFtQiRrIciChdvli",
+    "code": "BRL"
+  },
+  "CUR316": {
+    "name": "Brazilian Real",
+    "description": "UAaJBHfiDJOnENnnaipUcXFPejUahh",
+    "code": "USD"
+  },
+  "CUR820": {
+    "name": "Euro",
+    "description": "pMumjOLulMlZPcDxpjSKaJXjXWCHDF",
+    "code": "USD"
+  },
+  "CUR964": {
+    "name": "Argentine Peso",
+    "description": "QkaShVeyydhDnQwOwezYweLOpdePzW",
+    "code": "USD"
+  },
+  "CUR330": {
+    "name": "US Dollar",
+    "description": "CGRYjzQibDehOpNuZnssXvQLJqUjfy",
+    "code": "EUR"
+  },
+  "CUR233": {
+    "name": "Argentine Peso",
+    "description": "DezKFrNfCRNYkoUufLlXhKkxMNjaYf",
+    "code": "ARS"
+  },
+  "CUR418": {
+    "name": "Argentine Peso",
+    "description": "prRmIVayHJmVzAPtLpobrAyLnJoGjp",
+    "code": "EUR"
+  },
+  "CUR149": {
+    "name": "US Dollar",
+    "description": "dUdoqVEsCKHqjxfQjosaKONjoJTpul",
+    "code": "BRL"
+  },
+  "CUR417": {
+    "name": "Euro",
+    "description": "xmwnHIBylFGcXvRJjAruykGjlJOQlm",
+    "code": "USD"
+  },
+  "CUR842": {
+    "name": "Euro",
+    "description": "zgPtcmvKXPdyWBLfPFmhFzNwGsqJej",
+    "code": "EUR"
+  },
+  "CUR940": {
+    "name": "US Dollar",
+    "description": "VRrmSlmncrjumQJLlFihkDiTWpaPJt",
+    "code": "ARS"
+  },
+  "CUR229": {
+    "name": "Argentine Peso",
+    "description": "ZLIjfrjPQvedciEhrQFpFCUOGNrRNs",
+    "code": "EUR"
+  },
+  "CUR313": {
+    "name": "Argentine Peso",
+    "description": "rQNgndNvwhtJmkfhChexfpJVOYGgXd",
+    "code": "EUR"
+  },
+  "CUR528": {
+    "name": "Brazilian Real",
+    "description": "PfWvvnhYpvVVgAjJoEmPmLBCLJLVrU",
+    "code": "USD"
+  },
+  "CUR617": {
+    "name": "Brazilian Real",
+    "description": "SDsooTvgEQWfcohlgJUtTamhNHwdpP",
+    "code": "ARS"
+  },
+  "CUR637": {
+    "name": "US Dollar",
+    "description": "oIGyEZfMpMepsuGKvDexxemHycbhNY",
+    "code": "EUR"
+  },
+  "CUR150": {
+    "name": "Brazilian Real",
+    "description": "GBrtAJpsnUzVWJWDSMErAYeMdvbJgY",
+    "code": "EUR"
+  },
+  "CUR552": {
+    "name": "Argentine Peso",
+    "description": "ADKipXtEdEUCaozBLeUAiZpNvKtmNs",
+    "code": "BRL"
+  },
+  "CUR764": {
+    "name": "Argentine Peso",
+    "description": "GRTVGzwJoUAYBlpsnirkiZXWjYFUvH",
+    "code": "EUR"
+  },
+  "CUR248": {
+    "name": "Euro",
+    "description": "NhZYsbPIYGOarXINLPeNOxzygAGYmW",
+    "code": "EUR"
+  },
+  "CUR134": {
+    "name": "Argentine Peso",
+    "description": "YNsLoaIECFNrDsSsorLDHaEdFxDdhs",
+    "code": "EUR"
+  },
+  "CUR116": {
+    "name": "Brazilian Real",
+    "description": "qNrJJTkGBtOTixCqBOFVcNOPfBLihn",
+    "code": "BRL"
+  },
+  "CUR821": {
+    "name": "Argentine Peso",
+    "description": "FSPsApuMAWKOFIqOztQJewelnJbnEz",
+    "code": "USD"
+  },
+  "CUR268": {
+    "name": "US Dollar",
+    "description": "dElwIvUoRgomNHqycGYGWbsloJjZvA",
+    "code": "ARS"
+  },
+  "CUR621": {
+    "name": "Argentine Peso",
+    "description": "uPdAZeZWoAghToifEhmWWUYKDctbIJ",
+    "code": "BRL"
+  },
+  "CUR701": {
+    "name": "US Dollar",
+    "description": "WPGTblcquwYcvFHXeGLSzFoIKTyRSZ",
+    "code": "BRL"
+  },
+  "CUR752": {
+    "name": "Argentine Peso",
+    "description": "GgZUBelVLregtpBMwoweUQPrHjnmgd",
+    "code": "USD"
+  },
+  "CUR386": {
+    "name": "US Dollar",
+    "description": "dWhWjqQyKyraGObSHVvOvXSAAYLaZe",
+    "code": "EUR"
+  },
+  "CUR792": {
+    "name": "Argentine Peso",
+    "description": "HQQyzmvXptXIWqSPsxFtEMkOPUKLpB",
+    "code": "EUR"
+  },
+  "CUR629": {
+    "name": "Argentine Peso",
+    "description": "prDLVaQzYgoXMfxkIUFZKsZqPHTbZj",
+    "code": "ARS"
+  },
+  "CUR918": {
+    "name": "Brazilian Real",
+    "description": "LIROrNhfpTOFjmWOquSvRmkfPhbKdE",
+    "code": "BRL"
+  },
+  "CUR515": {
+    "name": "Argentine Peso",
+    "description": "ZGsUWbjpxEBwXJOSstfPFnmwFSviws",
+    "code": "USD"
+  },
+  "CUR377": {
+    "name": "US Dollar",
+    "description": "lVKhClDsSxSApDfQxWxIOXnxHCieuo",
+    "code": "ARS"
+  },
+  "CUR743": {
+    "name": "Brazilian Real",
+    "description": "yaZYPbMOotqlwGXoikBCvHCHouBTGw",
+    "code": "EUR"
+  },
+  "CUR370": {
+    "name": "Brazilian Real",
+    "description": "FvNhEJlYNvEIOiUCdeokgqSEuROQWB",
+    "code": "EUR"
+  },
+  "CUR352": {
+    "name": "Argentine Peso",
+    "description": "VgTTmJtilhbQojFxAFTvhGQzAqejvU",
+    "code": "ARS"
+  },
+  "CUR772": {
+    "name": "Argentine Peso",
+    "description": "sxaBeeBrnszYmOnbrUnhTthgKHHhwR",
+    "code": "ARS"
+  },
+  "CUR465": {
+    "name": "Argentine Peso",
+    "description": "bkLYULLHCNQmjMHeKUWrBQuIEHxYsN",
+    "code": "BRL"
+  },
+  "CUR801": {
+    "name": "Brazilian Real",
+    "description": "gqybxDXPBRikyXnTBbwBLHSigqwhzT",
+    "code": "USD"
+  },
+  "CUR943": {
+    "name": "Argentine Peso",
+    "description": "ISbGSRqHzzEzPmaHRECKORIBslsfMM",
+    "code": "ARS"
+  },
+  "CUR657": {
+    "name": "Argentine Peso",
+    "description": "AuMyhbipPnJPXKkFmutrdJqcNYAIOK",
+    "code": "ARS"
+  },
+  "CUR953": {
+    "name": "Brazilian Real",
+    "description": "ItrYwoxEASIXkgHhMkVVkoUaIuEDAD",
+    "code": "USD"
+  },
+  "CUR758": {
+    "name": "Brazilian Real",
+    "description": "WBJdZebIexnqTrvGpbWArpbvWwkkfH",
+    "code": "EUR"
+  },
+  "CUR225": {
+    "name": "US Dollar",
+    "description": "tBrZPUyZpGRJmcJzYLBiioHUHwWuKF",
+    "code": "EUR"
+  },
+  "CUR660": {
+    "name": "Brazilian Real",
+    "description": "AHeUoLGWTLoAUPNLbmKnMyAQBxAPok",
+    "code": "ARS"
+  },
+  "CUR954": {
+    "name": "US Dollar",
+    "description": "sbehNKrTRpacSSIFytYJkmWHVXQckN",
+    "code": "ARS"
+  },
+  "CUR373": {
+    "name": "Euro",
+    "description": "QGsgPVDKpfHdSznLaOFGVeCHrXczSS",
+    "code": "USD"
+  },
+  "CUR527": {
+    "name": "US Dollar",
+    "description": "egObIlwWSXgmyhqdSqqoVAKUVmjTNV",
+    "code": "ARS"
+  },
+  "CUR353": {
+    "name": "Euro",
+    "description": "JRvpozltsadQxAOHXDMPqAWKbueARo",
+    "code": "USD"
+  },
+  "CUR235": {
+    "name": "Argentine Peso",
+    "description": "LRfZgLpbPUFrAKpYUSoDFrbCduUICJ",
+    "code": "USD"
+  },
+  "CUR507": {
+    "name": "US Dollar",
+    "description": "dsbDRtklKrBnlZwFxWgGqInZbNMEoQ",
+    "code": "USD"
+  },
+  "CUR494": {
+    "name": "Brazilian Real",
+    "description": "eNFUecygTDfHPbCEaAINNVlpmpxjBP",
+    "code": "ARS"
+  },
+  "CUR382": {
+    "name": "US Dollar",
+    "description": "rMmpfToihxTioJlxtCaCClNnNnkDIF",
+    "code": "EUR"
+  },
+  "CUR447": {
+    "name": "Euro",
+    "description": "OoReemVYsbbKbYmFtMLAlIKXldPEHK",
+    "code": "USD"
+  },
+  "CUR567": {
+    "name": "Brazilian Real",
+    "description": "HDDonLqKhpHWUIgBaHLqNPeyzKxAER",
+    "code": "ARS"
+  },
+  "CUR503": {
+    "name": "Brazilian Real",
+    "description": "TseFCwwUFRSvByWXOvXcFuXbrfmeVI",
+    "code": "USD"
+  },
+  "CUR622": {
+    "name": "Argentine Peso",
+    "description": "ldvMYOLzLowyJxAuNNCtwlULWerOZk",
+    "code": "ARS"
+  },
+  "CUR809": {
+    "name": "US Dollar",
+    "description": "saWbNiprbVteUIAHjHPRNwnhKWbxPT",
+    "code": "EUR"
+  },
+  "CUR214": {
+    "name": "Euro",
+    "description": "qoLTXrpVcjCZFPptxITxoQBKAdrwgm",
+    "code": "BRL"
+  },
+  "CUR645": {
+    "name": "Brazilian Real",
+    "description": "IKOVsgYkjZdHiRpAxBLwRdeYRkbNUn",
+    "code": "BRL"
+  },
+  "CUR540": {
+    "name": "Argentine Peso",
+    "description": "cMCMVGcZTkMQTeYKTngaxbRkvWLkiv",
+    "code": "ARS"
+  },
+  "CUR807": {
+    "name": "Brazilian Real",
+    "description": "LYRXStKfXWeawraLfcnYuvOgmcSbaf",
+    "code": "EUR"
+  },
+  "CUR196": {
+    "name": "Euro",
+    "description": "obTQfZuEUiyjTzyjtQSUegquJpDzZi",
+    "code": "USD"
+  },
+  "CUR672": {
+    "name": "Euro",
+    "description": "VoMxeomWxlJrnuvclYdEXcUAOEvzVS",
+    "code": "ARS"
+  },
+  "CUR684": {
+    "name": "US Dollar",
+    "description": "fasDRSiRDrmCKTYPvjeQRQGoEuzAcN",
+    "code": "ARS"
+  },
+  "CUR291": {
+    "name": "Euro",
+    "description": "XebKlWOKBUMnaNoXjgpzpjbxakLiFl",
+    "code": "BRL"
+  },
+  "CUR724": {
+    "name": "Argentine Peso",
+    "description": "TCnvBCOsZwnupDqmwFKRQBimDVLYJj",
+    "code": "EUR"
+  },
+  "CUR230": {
+    "name": "US Dollar",
+    "description": "WPPISiQMllzNmRbVgMdzXNcVeGPbDK",
+    "code": "USD"
+  },
+  "CUR603": {
+    "name": "Euro",
+    "description": "snPrEOtRKsxXmSvMUxWjpKbyNMFKbH",
+    "code": "USD"
+  },
+  "CUR915": {
+    "name": "Brazilian Real",
+    "description": "zbKQkTNONpFXwXltlMElmALukHUZSU",
+    "code": "USD"
+  },
+  "CUR965": {
+    "name": "Argentine Peso",
+    "description": "YmurfGikBHzjLYwddyVYibMPtUcwnx",
+    "code": "ARS"
+  },
+  "CUR599": {
+    "name": "Argentine Peso",
+    "description": "yBzVVToxlqfUysgPFjEGaGUzBBqxYp",
+    "code": "USD"
+  },
+  "CUR642": {
+    "name": "Brazilian Real",
+    "description": "pbagzCxmlSRJbRNPjpNnJTHbvzmXgI",
+    "code": "USD"
+  },
+  "CUR755": {
+    "name": "US Dollar",
+    "description": "qbpzXwCmPsEdiJwGijtcfgDPTAyHVD",
+    "code": "BRL"
+  },
+  "CUR438": {
+    "name": "Euro",
+    "description": "AGqmMlTlMMqfwrCrdCRZduDackFDau",
+    "code": "ARS"
+  },
+  "CUR557": {
+    "name": "Brazilian Real",
+    "description": "JLrEAqiDEJmUEMFmblkuRxIGmbJDcG",
+    "code": "BRL"
+  },
+  "CUR893": {
+    "name": "Argentine Peso",
+    "description": "pHYfBXudnaCVBzwaTagRNAsViUpMUb",
+    "code": "EUR"
+  },
+  "CUR823": {
+    "name": "Euro",
+    "description": "TZhpQErKgrSJTmfhVPiDpmcAjBldiu",
+    "code": "USD"
+  },
+  "CUR421": {
+    "name": "Euro",
+    "description": "gvdatAWZKAudbnwjAxtukMPqIMfSTA",
+    "code": "EUR"
+  },
+  "CUR815": {
+    "name": "US Dollar",
+    "description": "SmhPIQgpAAKLnQLpZsUWFCwVlIriPK",
+    "code": "BRL"
+  },
+  "CUR203": {
+    "name": "US Dollar",
+    "description": "gmwrWQRgiXnNHTmPzBwoKGaHsZxcCn",
+    "code": "EUR"
+  },
+  "CUR730": {
+    "name": "US Dollar",
+    "description": "IgkDROsruPuFSZdCBkDpeBYbyrRDEK",
+    "code": "EUR"
+  },
+  "CUR441": {
+    "name": "Argentine Peso",
+    "description": "bfcZKIzVsBSnMonOHsJKJghhLqdXUY",
+    "code": "EUR"
+  },
+  "CUR124": {
+    "name": "Argentine Peso",
+    "description": "lELhThaKOVMNblrJsUBhruleWnTlwE",
+    "code": "USD"
+  },
+  "CUR768": {
+    "name": "Brazilian Real",
+    "description": "btMvJigKboExCPnkOSUsviEScQisHS",
+    "code": "EUR"
+  },
+  "CUR962": {
+    "name": "US Dollar",
+    "description": "xbqqwCmZuUUiMRkarMYfVmwIysfXjd",
+    "code": "USD"
+  },
+  "CUR780": {
+    "name": "US Dollar",
+    "description": "xboOEBqAZeAMipWeOoUDPsYFCRWgZt",
+    "code": "ARS"
+  },
+  "CUR242": {
+    "name": "US Dollar",
+    "description": "nYsBvDdxmYhDhiVOLbAmjZYHQlYTrO",
+    "code": "ARS"
+  },
+  "CUR748": {
+    "name": "Argentine Peso",
+    "description": "RPxVoOKcLkyUkxofjwzWPhcYYxSfzj",
+    "code": "ARS"
+  },
+  "CUR978": {
+    "name": "Euro",
+    "description": "DaBfKzdzpMbySpyByNkDtavHdWREzz",
+    "code": "USD"
+  },
+  "CUR555": {
+    "name": "US Dollar",
+    "description": "OJThBNgJhgPHQpQbtmwHxvjzVBWXpw",
+    "code": "BRL"
+  },
+  "CUR690": {
+    "name": "Brazilian Real",
+    "description": "zZDZGyrzHtqSzNURziuMbqjIFmKnaW",
+    "code": "EUR"
+  },
+  "CUR175": {
+    "name": "Argentine Peso",
+    "description": "tTpzypmANfJBUEesSohcAeHgwmWgHh",
+    "code": "BRL"
+  },
+  "CUR506": {
+    "name": "Argentine Peso",
+    "description": "oqMAWtcUCQljBuPIOsSXjkGErtBykh",
+    "code": "BRL"
+  },
+  "CUR982": {
+    "name": "Argentine Peso",
+    "description": "VcELReCLuNvYHdQOFAzGqEiXMKafwi",
+    "code": "ARS"
+  },
+  "CUR853": {
+    "name": "US Dollar",
+    "description": "mFufNGYuANMZsInsQaKZDYZCFSituU",
+    "code": "USD"
+  },
+  "CUR712": {
+    "name": "Brazilian Real",
+    "description": "fYvfAWsxpYspOQsHrEhtajAUsMriBP",
+    "code": "EUR"
+  },
+  "CUR206": {
+    "name": "US Dollar",
+    "description": "VCDvrPLnIhoQXVlprytmNYRZePCIFm",
+    "code": "USD"
+  },
+  "CUR719": {
+    "name": "Brazilian Real",
+    "description": "UomFLcJpwlMlGnggTtbzifqnYAXMOz",
+    "code": "BRL"
+  },
+  "CUR348": {
+    "name": "Brazilian Real",
+    "description": "VDXGIFWZLqXlfUqyBBnISIVHbpiklV",
+    "code": "BRL"
+  },
+  "CUR581": {
+    "name": "US Dollar",
+    "description": "cKqRTnmQQDCyGpGrhXPRIVnfaimnlR",
+    "code": "USD"
+  },
+  "CUR469": {
+    "name": "Euro",
+    "description": "yDgPvDhZDuaGiEhJaWpYBxBjJkfBLj",
+    "code": "EUR"
+  },
+  "CUR133": {
+    "name": "Brazilian Real",
+    "description": "niYwaruhYUFyMgnGlIlLvTyndiOpej",
+    "code": "USD"
+  },
+  "CUR911": {
+    "name": "Brazilian Real",
+    "description": "wttWcFqhIGptDnnkFKWuUMvrLdXSVE",
+    "code": "ARS"
+  },
+  "CUR580": {
+    "name": "US Dollar",
+    "description": "KLAirMBINWMXFeWwMcrFYSPevswkRc",
+    "code": "USD"
+  },
+  "CUR787": {
+    "name": "US Dollar",
+    "description": "zjuBhYoVpViOdvkqLwNnaindvyKefH",
+    "code": "EUR"
+  },
+  "CUR958": {
+    "name": "Euro",
+    "description": "aTbYVSokaBScopbozkbhgBwOmtwKtR",
+    "code": "ARS"
+  },
+  "CUR703": {
+    "name": "Euro",
+    "description": "kUKgxzxvoZBFYDlhWsBeyaaKTbSxgb",
+    "code": "USD"
+  },
+  "CUR706": {
+    "name": "Argentine Peso",
+    "description": "VHPpBIdWySmVMykpAOJEhOUeOaXwuE",
+    "code": "USD"
+  },
+  "CUR955": {
+    "name": "Euro",
+    "description": "SQFFfqUZrUIArfvapBDRBdIEPrzEKP",
+    "code": "BRL"
+  },
+  "CUR194": {
+    "name": "Euro",
+    "description": "vrrDHkLkFXmUSgdRIwgKzAtumNvHcc",
+    "code": "EUR"
+  },
+  "CUR511": {
+    "name": "Euro",
+    "description": "IMEnMtYHVJKwtYVmdKApMxVTsTExjY",
+    "code": "ARS"
+  },
+  "CUR231": {
+    "name": "US Dollar",
+    "description": "JoreRCxjjbxJmACmCatSRLcpUqszOI",
+    "code": "EUR"
+  },
+  "CUR871": {
+    "name": "Brazilian Real",
+    "description": "fWmbOCqbybfnvQmOvVxDrjJikkMxbz",
+    "code": "BRL"
+  },
+  "CUR525": {
+    "name": "Euro",
+    "description": "JyOUIgBIxCBquBBgYtkVvPicuYXklE",
+    "code": "ARS"
+  },
+  "CUR659": {
+    "name": "US Dollar",
+    "description": "lNfWBbIgKIjPweewFqjSEGPejuiRTK",
+    "code": "ARS"
+  },
+  "CUR592": {
+    "name": "Argentine Peso",
+    "description": "aTsKKGgwVIdzaMFEJOdeLDBdLOTsVo",
+    "code": "EUR"
+  },
+  "CUR997": {
+    "name": "US Dollar",
+    "description": "wqlGBWeqiffjnHTUElBZNTvCDyTNJY",
+    "code": "BRL"
+  },
+  "CUR699": {
+    "name": "Argentine Peso",
+    "description": "WrnaOCSKUPBqOMPuuDWmePNfdqLOxo",
+    "code": "EUR"
+  },
+  "CUR501": {
+    "name": "Brazilian Real",
+    "description": "vfwNfNbfnLwKTOwpdmfANXbTlKmVRj",
+    "code": "BRL"
+  },
+  "CUR345": {
+    "name": "Brazilian Real",
+    "description": "rOhmrrXMZBzzwXoiSeaHjayAmuRJNa",
+    "code": "BRL"
+  },
+  "CUR366": {
+    "name": "Euro",
+    "description": "eYeHBmlfDePxMCMkfqwgZIvHANJSQM",
+    "code": "ARS"
+  },
+  "CUR400": {
+    "name": "US Dollar",
+    "description": "zzvdjYHsLoGfgBVJnMIlbodFRgyUoj",
+    "code": "BRL"
+  },
+  "CUR793": {
+    "name": "Euro",
+    "description": "aIOITPxObDLNWexTdAeVRkPlxHsXpE",
+    "code": "USD"
+  },
+  "CUR388": {
+    "name": "Euro",
+    "description": "jlSNTBGNvGLnTbQKDHaNDqNkXCZmbw",
+    "code": "EUR"
+  },
+  "CUR639": {
+    "name": "US Dollar",
+    "description": "MBaNjCjCkMrywUiMVtpZMPItYffpiz",
+    "code": "USD"
+  },
+  "CUR362": {
+    "name": "Argentine Peso",
+    "description": "USJLlMgHPlfrCNegJlXdoOqKgZZaOJ",
+    "code": "EUR"
+  },
+  "CUR747": {
+    "name": "Brazilian Real",
+    "description": "EWlVTMoGbHUYFBfBfndWvvssGtOkKt",
+    "code": "EUR"
+  },
+  "CUR726": {
+    "name": "Euro",
+    "description": "IJlWqNeEinWmyPczIcBkmzirXHGusH",
+    "code": "USD"
+  },
+  "CUR193": {
+    "name": "Argentine Peso",
+    "description": "vKgmyBNngKOpTIWrbIVrkhuIkaHawk",
+    "code": "EUR"
+  },
+  "CUR655": {
+    "name": "US Dollar",
+    "description": "ksTupLMidtfBGOPLIGuNrQIFMrPUBa",
+    "code": "ARS"
+  },
+  "CUR760": {
+    "name": "US Dollar",
+    "description": "KsaNwyKCjRYuLVzmceTzqauawzcIEB",
+    "code": "BRL"
+  },
+  "CUR606": {
+    "name": "Argentine Peso",
+    "description": "xrcsgZybaMmeLUzgxFzTbsJDZHSZRS",
+    "code": "BRL"
+  },
+  "CUR357": {
+    "name": "Argentine Peso",
+    "description": "HKlYHRljqTJUoKtMQvGgnJrOpOxwxO",
+    "code": "ARS"
+  },
+  "CUR825": {
+    "name": "Brazilian Real",
+    "description": "zcMjJndMkolnnmldVAfAyswvoGCRrN",
+    "code": "BRL"
+  },
+  "CUR797": {
+    "name": "US Dollar",
+    "description": "gYQWsGKQGVGoZvWoJOyiDxeufnkSQC",
+    "code": "EUR"
+  },
+  "CUR849": {
+    "name": "US Dollar",
+    "description": "jkWrFRqpTyNOwAuXJrnbLJebdQKQDW",
+    "code": "ARS"
+  },
+  "CUR288": {
+    "name": "Argentine Peso",
+    "description": "VevsBVKtiGldmdYNOvGMseYvjgoelt",
+    "code": "EUR"
+  },
+  "CUR420": {
+    "name": "Euro",
+    "description": "UELHJjFGylaEFQsAxYLZvMIpEKqyiJ",
+    "code": "USD"
+  },
+  "CUR576": {
+    "name": "Argentine Peso",
+    "description": "aXofyxjJWTHBlyaMmdNsHEHNYQXLzN",
+    "code": "ARS"
+  },
+  "CUR146": {
+    "name": "US Dollar",
+    "description": "AhpKnRkgirGzWBpMwgaNncjIaOSUcr",
+    "code": "EUR"
+  },
+  "CUR339": {
+    "name": "Euro",
+    "description": "oQGUOobvIjhknpTYZGLBkpxTOSjTLl",
+    "code": "USD"
+  },
+  "CUR947": {
+    "name": "US Dollar",
+    "description": "DPjtrkLVzUgMfvhRGozbMzIEGgykVP",
+    "code": "BRL"
+  },
+  "CUR866": {
+    "name": "Argentine Peso",
+    "description": "VkKRcJUHVvsrOMnQJOVPBQblwDnJcD",
+    "code": "ARS"
+  },
+  "CUR796": {
+    "name": "Euro",
+    "description": "lfiHuTMeKozlePhKHWdETKGVPfGsbv",
+    "code": "BRL"
+  },
+  "CUR270": {
+    "name": "Brazilian Real",
+    "description": "gwJdkNlvzlsJTfrGWjJMexDJfPMfOS",
+    "code": "BRL"
+  },
+  "CUR429": {
+    "name": "Brazilian Real",
+    "description": "RhpDVxZDcPfzzfCsYsZEIMzvlZEyDJ",
+    "code": "BRL"
+  },
+  "CUR423": {
+    "name": "Brazilian Real",
+    "description": "xmHngYiXRgquvKFkdRpJatcDvVCgKh",
+    "code": "USD"
+  },
+  "CUR683": {
+    "name": "Euro",
+    "description": "lVTuWvyCXnkjOicYsTlKrqLBcXhUSj",
+    "code": "USD"
+  },
+  "CUR833": {
+    "name": "Brazilian Real",
+    "description": "cFKNvbxwpIKfheNnMNChnXfftvEqid",
+    "code": "ARS"
+  },
+  "CUR670": {
+    "name": "US Dollar",
+    "description": "zYNLBVcyWYKZQBaaJDeKBvhmuNlfZu",
+    "code": "USD"
+  },
+  "CUR571": {
+    "name": "Brazilian Real",
+    "description": "KXXFohgCTgkvnICzsdixqrUKDqROAB",
+    "code": "USD"
+  },
+  "CUR835": {
+    "name": "US Dollar",
+    "description": "FlkFepFzCOEriBjLOzEgdSeJPmwbOh",
+    "code": "ARS"
+  },
+  "CUR942": {
+    "name": "Euro",
+    "description": "qyafXireyVeunCgmrdDmUJGIRoXdCy",
+    "code": "ARS"
+  },
+  "CUR908": {
+    "name": "US Dollar",
+    "description": "EXIdTRuxjbcqTkAZSikyEjGqUzCiEE",
+    "code": "EUR"
+  },
+  "CUR181": {
+    "name": "Brazilian Real",
+    "description": "qNGFbYgJbXRSirxvgiAXkGSPHDAcJD",
+    "code": "USD"
+  },
+  "CUR804": {
+    "name": "Euro",
+    "description": "HsKSwwxkmmcOuabwCDgMfBvYgLjsHx",
+    "code": "BRL"
+  },
+  "CUR460": {
+    "name": "US Dollar",
+    "description": "XbMFWpgoHWUXlOUqbaPTipHIATAZpX",
+    "code": "BRL"
+  },
+  "CUR391": {
+    "name": "US Dollar",
+    "description": "RBIbfnkrQJADRVRhLhQkoLdsJJnKTL",
+    "code": "BRL"
+  },
+  "CUR324": {
+    "name": "Euro",
+    "description": "CzQyhyFTPcMrdCAkAHIGvwrpDtSESo",
+    "code": "ARS"
+  },
+  "CUR393": {
+    "name": "Brazilian Real",
+    "description": "FGRXECxdTMPbTXAFgkaOIdmFuiCqUY",
+    "code": "EUR"
+  },
+  "CUR838": {
+    "name": "Argentine Peso",
+    "description": "XqTkKpBgGJXdvySkYqqeDJFeLvdmxi",
+    "code": "BRL"
+  },
+  "CUR411": {
+    "name": "Euro",
+    "description": "wJSljJnwSzhxqyhhYDNihMJPRXwrSY",
+    "code": "USD"
+  },
+  "CUR993": {
+    "name": "Brazilian Real",
+    "description": "MslwbVkIHpYjoyPQEicYsYSKbOAmgh",
+    "code": "BRL"
+  },
+  "CUR828": {
+    "name": "Argentine Peso",
+    "description": "IVrWCbFYHlrmCfVUrLJoxtWMpdOfve",
+    "code": "EUR"
+  },
+  "CUR799": {
+    "name": "Argentine Peso",
+    "description": "YqInQWODyCsbPtyFUksKzUdXrWGVgS",
+    "code": "ARS"
+  },
+  "CUR723": {
+    "name": "Argentine Peso",
+    "description": "sPlRIeMuVChOKOCEfsKMnsdCspDBWT",
+    "code": "EUR"
+  },
+  "CUR740": {
+    "name": "Argentine Peso",
+    "description": "xjFSkoBDHoJFIIWYHdHdiktjUvMsYI",
+    "code": "BRL"
+  },
+  "CUR207": {
+    "name": "US Dollar",
+    "description": "skMtDZJNSXHrPRYHdCwxotwVDRuqES",
+    "code": "USD"
+  },
+  "CUR445": {
+    "name": "Euro",
+    "description": "ghPPntPPybABuXoYWWCvvDLTJneCLE",
+    "code": "USD"
+  },
+  "CUR668": {
+    "name": "Euro",
+    "description": "HYEYvzETzAhfsBeRPEEyueyOnvlUhT",
+    "code": "EUR"
+  },
+  "CUR628": {
+    "name": "Brazilian Real",
+    "description": "HCyserCOlToTeXsIYkNjZJGqSUYOjq",
+    "code": "USD"
+  },
+  "CUR679": {
+    "name": "Euro",
+    "description": "vTYOaEiTlnQFQVgJJZeveZspPpLbXa",
+    "code": "USD"
+  },
+  "CUR647": {
+    "name": "Argentine Peso",
+    "description": "QAcBVhlzvLjPrMbFXhNWozzxcQTwjm",
+    "code": "BRL"
+  },
+  "CUR359": {
+    "name": "Brazilian Real",
+    "description": "ISBCsFjfwgwGJQckBiWRcozXSeFXeh",
+    "code": "EUR"
+  },
+  "CUR763": {
+    "name": "Euro",
+    "description": "HgCBpqPKtBjpZGGkgMXnEVnGajEtQA",
+    "code": "BRL"
+  },
+  "CUR531": {
+    "name": "Brazilian Real",
+    "description": "RWQiIbOdeFrbzBmVGzmEZRmVZkIRJq",
+    "code": "USD"
+  },
+  "CUR334": {
+    "name": "Brazilian Real",
+    "description": "SZnTXaYiSSaGkeatgiKhEUZkpYWkqZ",
+    "code": "EUR"
+  },
+  "CUR625": {
+    "name": "Brazilian Real",
+    "description": "NkcxSXrDWCXIIwVovmGkeWLNzPyxjV",
+    "code": "USD"
+  },
+  "CUR252": {
+    "name": "Brazilian Real",
+    "description": "yYtHpkAGqXHXaORhgSpnUbuopGYLNU",
+    "code": "ARS"
+  },
+  "CUR187": {
+    "name": "Euro",
+    "description": "HsMZsJpGAsLVOfFiazQjTKRPBfBfQM",
+    "code": "BRL"
+  },
+  "CUR287": {
+    "name": "Brazilian Real",
+    "description": "fBCKiOnikkUpOrqTvAszhgnJXmodbA",
+    "code": "ARS"
+  },
+  "CUR569": {
+    "name": "Brazilian Real",
+    "description": "bFMgeHEfdEgASpkeyNUTpIWqjuiFUR",
+    "code": "USD"
+  },
+  "CUR663": {
+    "name": "US Dollar",
+    "description": "GYdhKUyXWKpzxMGCDOGGVLbZhjmaoU",
+    "code": "BRL"
+  },
+  "CUR925": {
+    "name": "Euro",
+    "description": "fXeLloDzvVQHSMskIxejKUlLbqenUw",
+    "code": "BRL"
+  },
+  "CUR971": {
+    "name": "Euro",
+    "description": "MbwidcTDHjUNFFfXHMwwsaCwLfKjlH",
+    "code": "USD"
+  },
+  "CUR435": {
+    "name": "US Dollar",
+    "description": "nmPJVIKvKSfBrnuEBtndtSLUrDKzsA",
+    "code": "BRL"
+  },
+  "CUR176": {
+    "name": "Euro",
+    "description": "HWQYKImBTHYzWOeShiMQEPPIxVOMVq",
+    "code": "ARS"
+  },
+  "CUR202": {
+    "name": "Brazilian Real",
+    "description": "RwYrIjcKsUMRceHacrSHEkCLmFlJIl",
+    "code": "BRL"
+  },
+  "CUR317": {
+    "name": "Euro",
+    "description": "JAFZYzsPKFRMeXGgMidfqqjQfiKEre",
+    "code": "BRL"
+  },
+  "CUR999": {
+    "name": "Argentine Peso",
+    "description": "EaZBNweqEeSVVYkcAlniRDdUMGyRzE",
+    "code": "ARS"
+  },
+  "CUR273": {
+    "name": "Brazilian Real",
+    "description": "JrlLFZtyRpVBBXdVvdjjLJcTYkYyqT",
+    "code": "EUR"
+  },
+  "CUR432": {
+    "name": "Argentine Peso",
+    "description": "NImMklbKkRWAnhiQWcxlCartnOkinP",
+    "code": "BRL"
+  },
+  "CUR474": {
+    "name": "Brazilian Real",
+    "description": "NuqEZNHWOcmyMxczZyjUGbhUivVkdU",
+    "code": "USD"
+  },
+  "CUR327": {
+    "name": "Argentine Peso",
+    "description": "OMgOVTgobLeFQgCodGQcKjpppQqTba",
+    "code": "BRL"
+  },
+  "CUR454": {
+    "name": "Brazilian Real",
+    "description": "VGccNxelVugdlHsJTrrkrTOfJTCFbP",
+    "code": "ARS"
+  },
+  "CUR489": {
+    "name": "Argentine Peso",
+    "description": "LEOEJQiqGrWHBEFULFfwgpiNqoOViP",
+    "code": "EUR"
+  },
+  "CUR122": {
+    "name": "Argentine Peso",
+    "description": "FcicRGWOWGStRWQOJDrNEpmHhPkZnz",
+    "code": "USD"
+  },
+  "CUR310": {
+    "name": "Argentine Peso",
+    "description": "kyqumTWzgpCTXBDiGhHKvMIsGiiFik",
+    "code": "USD"
+  },
+  "CUR742": {
+    "name": "Euro",
+    "description": "ySZhMzhrLzhJraMkDwDjQwWITcOThb",
+    "code": "BRL"
+  },
+  "CUR636": {
+    "name": "Brazilian Real",
+    "description": "VHbKpkoENZpGGFiRHoDkngzoGxDAvo",
+    "code": "BRL"
+  },
+  "CUR147": {
+    "name": "Argentine Peso",
+    "description": "eyKjUasIhXVmFaBzMZPBdGRCnJpXjV",
+    "code": "EUR"
+  },
+  "CUR278": {
+    "name": "US Dollar",
+    "description": "yuWLCkCiarBTyvluNEwwpIgstBtbcq",
+    "code": "USD"
+  },
+  "CUR112": {
+    "name": "Brazilian Real",
+    "description": "zvTgmGRdpuTFoXmbtptYWqtBLIqajt",
+    "code": "EUR"
+  },
+  "CUR675": {
+    "name": "Brazilian Real",
+    "description": "XczSlVhZGNEKaIYBbmCeprUXLUpSEy",
+    "code": "BRL"
+  },
+  "CUR378": {
+    "name": "Euro",
+    "description": "IrsUQXcEuRydhRUhhinZrHsOjnQcXZ",
+    "code": "BRL"
+  },
+  "CUR257": {
+    "name": "US Dollar",
+    "description": "nzDfPFbtDDKoGRjMVLCgBpFCxloZqf",
+    "code": "ARS"
+  },
+  "CUR309": {
+    "name": "Brazilian Real",
+    "description": "vwqOEZDcIWQfyZJJnFrvzFYUohqIEC",
+    "code": "EUR"
+  },
+  "CUR861": {
+    "name": "Brazilian Real",
+    "description": "PqypvfkXcorXfviRabsdHQwxsIauUq",
+    "code": "EUR"
+  },
+  "CUR613": {
+    "name": "Euro",
+    "description": "CTafcgclNXAyzrxJtLbGNHIUWlTulY",
+    "code": "ARS"
+  },
+  "CUR516": {
+    "name": "Brazilian Real",
+    "description": "OBSwpLWUJbkBODSkAEHtjGEEPHNQPj",
+    "code": "ARS"
+  },
+  "CUR481": {
+    "name": "Brazilian Real",
+    "description": "bwhEKOnpXHtuhZIhzpGLiIqBCZmUtV",
+    "code": "BRL"
+  },
+  "CUR568": {
+    "name": "US Dollar",
+    "description": "BMZNvIsSIAfniysordCATFkgpHVRBo",
+    "code": "EUR"
+  },
+  "CUR619": {
+    "name": "Brazilian Real",
+    "description": "biZdoBOcPjvbCsvnOxsGEEirXVxHuK",
+    "code": "EUR"
+  },
+  "CUR505": {
+    "name": "Brazilian Real",
+    "description": "oHMXgEmdHqldERfKuTkPANAtpoXSVu",
+    "code": "ARS"
+  },
+  "CUR140": {
+    "name": "US Dollar",
+    "description": "XmdHbneVPemMtKYbbOwTYEWbAJwsRC",
+    "code": "EUR"
+  },
+  "CUR195": {
+    "name": "Argentine Peso",
+    "description": "jNNMiOWbpWaNwuLumTaWMlriCqeVip",
+    "code": "BRL"
+  },
+  "CUR263": {
+    "name": "Euro",
+    "description": "MYWZPltxCMTBOmeUWOFMaSboFitKkM",
+    "code": "USD"
+  },
+  "CUR966": {
+    "name": "Argentine Peso",
+    "description": "wNeYrwNsQRREHpUtExrXDThjcoGFlQ",
+    "code": "EUR"
+  },
+  "CUR337": {
+    "name": "Euro",
+    "description": "SKtAOQNhJqMZfwapygIYIeqaDDGVko",
+    "code": "BRL"
+  },
+  "CUR973": {
+    "name": "Euro",
+    "description": "cfCvzljRdOTYevVrlyQzbvoLwXgVsO",
+    "code": "ARS"
+  },
+  "CUR914": {
+    "name": "US Dollar",
+    "description": "CcKDiOeEdVokcjcwYcnROMnEDFeCgD",
+    "code": "ARS"
+  },
+  "CUR158": {
+    "name": "Euro",
+    "description": "PGnfxyywEfbMoAbolFZSSCHKOulMvH",
+    "code": "EUR"
+  },
+  "CUR607": {
+    "name": "US Dollar",
+    "description": "MgpwFGUKGfkrHAKqrWNpfynkcoiMYT",
+    "code": "BRL"
+  },
+  "CUR480": {
+    "name": "Brazilian Real",
+    "description": "VkpUfHZlxxRZZIiCheFhsaJFbOJXlh",
+    "code": "EUR"
+  },
+  "CUR725": {
+    "name": "Euro",
+    "description": "lkUFWEpwvJeWEdIzbysYDZbMYqWDAV",
+    "code": "USD"
+  },
+  "CUR774": {
+    "name": "US Dollar",
+    "description": "OmtBJTHUstjTcPvAUUUJhXxHNRlMSt",
+    "code": "EUR"
+  },
+  "CUR260": {
+    "name": "Euro",
+    "description": "VUesHWofBrRCeeXbTpCfhIOevZHCTs",
+    "code": "ARS"
+  },
+  "CUR289": {
+    "name": "Brazilian Real",
+    "description": "dggeeIiaurYRKkOqJYOWBAdXgxNjgu",
+    "code": "BRL"
+  },
+  "CUR831": {
+    "name": "Euro",
+    "description": "OiJdalACjfhVXJImmfZnxjOJgVZwOQ",
+    "code": "BRL"
+  },
+  "CUR677": {
+    "name": "Brazilian Real",
+    "description": "RLLzgWzWBtFQiIynTIqMrsgcRQUEhI",
+    "code": "ARS"
+  },
+  "CUR216": {
+    "name": "Argentine Peso",
+    "description": "mfSsqFxTmEhBIjpaKYTFjVOXYhSFRX",
+    "code": "BRL"
+  },
+  "CUR341": {
+    "name": "Euro",
+    "description": "zqIFDvimPtaMYktjViVIpNOYGaBNHj",
+    "code": "ARS"
+  },
+  "CUR259": {
+    "name": "US Dollar",
+    "description": "EnoCPGeuDDOQGWgITQAoUrMvgvFwfH",
+    "code": "ARS"
+  },
+  "CUR851": {
+    "name": "Euro",
+    "description": "xsxRaVCbRuHkAZKywYOjyUVEdDrHAy",
+    "code": "BRL"
+  },
+  "CUR363": {
+    "name": "Brazilian Real",
+    "description": "RrGurcGwfcVWfIGXnSsFIamSXAnwBH",
+    "code": "USD"
+  },
+  "CUR290": {
+    "name": "Euro",
+    "description": "IIZcNlNaiPVuWxVZBoFLxrGbDzsHnE",
+    "code": "USD"
+  },
+  "CUR240": {
+    "name": "Argentine Peso",
+    "description": "nxwSjydKvJDmbtfESRXyAdKIqnmdOA",
+    "code": "USD"
+  },
+  "CUR961": {
+    "name": "Brazilian Real",
+    "description": "BTryulbbzYksBrWwxWrVAURHdbdqnO",
+    "code": "EUR"
+  },
+  "CUR437": {
+    "name": "Argentine Peso",
+    "description": "BTzYlRQOchFfLNFjZJaLcrfndNSNkv",
+    "code": "USD"
+  },
+  "CUR570": {
+    "name": "Brazilian Real",
+    "description": "bxqoflGxwBsGhzLYlNrWyTyUdhAGqj",
+    "code": "USD"
+  },
+  "CUR769": {
+    "name": "Argentine Peso",
+    "description": "syIsssRDmWeFDPJNXJtqoCJHCCbspH",
+    "code": "BRL"
+  },
+  "CUR991": {
+    "name": "Euro",
+    "description": "KUAIrllHrIMdBpUoLWNrMEDgsNteXf",
+    "code": "ARS"
+  },
+  "CUR204": {
+    "name": "Argentine Peso",
+    "description": "dSJyIaTfldwHcXmAsDTyrDCaxKWatS",
+    "code": "USD"
+  },
+  "CUR732": {
+    "name": "Brazilian Real",
+    "description": "wGcASOVfCWpkjFJCXhWoQidYPqeYaq",
+    "code": "BRL"
+  },
+  "CUR631": {
+    "name": "Euro",
+    "description": "NugfIzVGAilFmvZCFgsyaSLlYXsxFI",
+    "code": "BRL"
+  },
+  "CUR767": {
+    "name": "Argentine Peso",
+    "description": "CCWdqBXkbkHFdSVpogwfsgoizaLJWg",
+    "code": "ARS"
+  },
+  "CUR104": {
+    "name": "Brazilian Real",
+    "description": "lOxefISHKZDqcPMNdRdyeLYwzmqSzE",
+    "code": "EUR"
+  },
+  "CUR687": {
+    "name": "Argentine Peso",
+    "description": "WkRnJGPQjWqvmwLRPNKtYJkJfaZhZU",
+    "code": "EUR"
+  },
+  "CUR738": {
+    "name": "Argentine Peso",
+    "description": "rSXtPlKzqYoWDYHkqVRsLBHjvmHGwH",
+    "code": "BRL"
+  },
+  "CUR331": {
+    "name": "US Dollar",
+    "description": "eUPJAoAZpdEYgFTKsiMlAZJgskhRPY",
+    "code": "USD"
+  },
+  "CUR166": {
+    "name": "Euro",
+    "description": "DUROtqzdFXaPziKnIkdyQpCWwKXvBQ",
+    "code": "BRL"
+  },
+  "CUR218": {
+    "name": "Argentine Peso",
+    "description": "KiFFrZDRhycJlKkuVkeRqeYrwkeqfH",
+    "code": "USD"
+  },
+  "CUR845": {
+    "name": "Euro",
+    "description": "boPnyXzPYJfZFqHsTkBptisirCNMdr",
+    "code": "BRL"
+  },
+  "CUR347": {
+    "name": "Brazilian Real",
+    "description": "RuTTzHqVcCrdlGltwqVNWgvqGmDbTo",
+    "code": "ARS"
+  },
+  "CUR439": {
+    "name": "US Dollar",
+    "description": "jZmAESrhUeVmLfTFcfuKgiBDsyOtAK",
+    "code": "BRL"
+  },
+  "CUR215": {
+    "name": "Argentine Peso",
+    "description": "eCrqhSihMPoYUqbgcVFnSozDQQyIdj",
+    "code": "USD"
+  },
+  "CUR868": {
+    "name": "Argentine Peso",
+    "description": "fWNqfhBYckrKTNmBBfNiaURGMDDpzf",
+    "code": "ARS"
+  },
+  "CUR284": {
+    "name": "US Dollar",
+    "description": "PavDvREpxKTTJnmpdwJBHoIVjbIlVy",
+    "code": "USD"
+  },
+  "CUR440": {
+    "name": "Brazilian Real",
+    "description": "XlfLDUiLAlEnEBKYByejDDxlCUCMeq",
+    "code": "ARS"
+  },
+  "CUR676": {
+    "name": "Brazilian Real",
+    "description": "pTEVckLJTymzlaFtdKCGmMsAneCyQV",
+    "code": "BRL"
+  },
+  "CUR538": {
+    "name": "Brazilian Real",
+    "description": "wVSvdkwpVMGoHqdzxqVUOSrkJnaFOl",
+    "code": "ARS"
+  },
+  "CUR881": {
+    "name": "US Dollar",
+    "description": "GazxjwDCvdNHyPmpPstApYIPebWtPy",
+    "code": "EUR"
+  },
+  "CUR585": {
+    "name": "Argentine Peso",
+    "description": "TPuGXJDesbEjoSxJCZSypKlWQVwwtG",
+    "code": "ARS"
+  },
+  "CUR669": {
+    "name": "Euro",
+    "description": "sdZYyobLDAfmKjJvIQICDAbTUMPcbf",
+    "code": "USD"
+  },
+  "CUR906": {
+    "name": "Brazilian Real",
+    "description": "IqazwHWLKcfYXwaVlzVPMrMqziOinv",
+    "code": "EUR"
+  },
+  "CUR141": {
+    "name": "Euro",
+    "description": "apSkauUhQZSfpNPeqGqVAHvLALOwqt",
+    "code": "USD"
+  },
+  "CUR959": {
+    "name": "Euro",
+    "description": "FYmSJQkjXWlIuLjaExFLZAQZVSnMht",
+    "code": "EUR"
+  },
+  "CUR422": {
+    "name": "Brazilian Real",
+    "description": "LIWbzBLGHQbHavnrLMkLjSFvihOslf",
+    "code": "ARS"
+  },
+  "CUR662": {
+    "name": "Euro",
+    "description": "myNXWxKWRKEwxIjyyortRLirTIPCKw",
+    "code": "USD"
+  },
+  "CUR107": {
+    "name": "Argentine Peso",
+    "description": "vfRSXRMLvLsFyBcrqJpXGlfLBwRzkO",
+    "code": "USD"
+  },
+  "CUR498": {
+    "name": "Brazilian Real",
+    "description": "CgsMMYNseReqNFeBYoIMqOnJeNBBvY",
+    "code": "BRL"
+  },
+  "CUR832": {
+    "name": "US Dollar",
+    "description": "MajssbXpDxWvzCchuxXhOvlnWyfnaF",
+    "code": "EUR"
+  },
+  "CUR156": {
+    "name": "Euro",
+    "description": "QZBIpIkEHLbonIjOSjAoTjBbvrNuVZ",
+    "code": "BRL"
+  },
+  "CUR844": {
+    "name": "Euro",
+    "description": "IwKsmfTXhwZvwiHbpPvqURrfKhoRQc",
+    "code": "BRL"
+  },
+  "CUR171": {
+    "name": "Brazilian Real",
+    "description": "QanhDOHNeIYZHlCzhdwriJlAazVnRx",
+    "code": "USD"
+  },
+  "CUR190": {
+    "name": "Brazilian Real",
+    "description": "tGoPsVDVINARJpYHnAUUWvCACCEZji",
+    "code": "USD"
+  },
+  "CUR205": {
+    "name": "Argentine Peso",
+    "description": "kKEkSHvgIUkjagGPYIlvEotFlfvHIU",
+    "code": "ARS"
+  },
+  "CUR365": {
+    "name": "Brazilian Real",
+    "description": "aimGryiswzozCCBgxBdABKYNAUJNnt",
+    "code": "BRL"
+  },
+  "CUR217": {
+    "name": "US Dollar",
+    "description": "lSdFGBVKEbucFEiavWuaRgnjJjmNnc",
+    "code": "EUR"
+  },
+  "CUR535": {
+    "name": "Argentine Peso",
+    "description": "zhdhnebgHFmYAppByXikBvELRebpsR",
+    "code": "EUR"
+  },
+  "CUR484": {
+    "name": "US Dollar",
+    "description": "vqyCBPkXJteQCrdxFQwbwOdidVbMXV",
+    "code": "USD"
+  },
+  "CUR186": {
+    "name": "Argentine Peso",
+    "description": "EatYYWIfNeGexSzrGfMTdIAjgJKbyP",
+    "code": "USD"
+  },
+  "CUR407": {
+    "name": "Brazilian Real",
+    "description": "iukXolgbXgLYDdOiLPkWyOrxyOUhkz",
+    "code": "EUR"
+  },
+  "CUR522": {
+    "name": "Brazilian Real",
+    "description": "VJnkevfPbBSneBZVMpnyhYwMAbPDVn",
+    "code": "USD"
+  },
+  "CUR863": {
+    "name": "Brazilian Real",
+    "description": "rAATzTvwSSmIyZJwAgogFfdLLCUqJs",
+    "code": "EUR"
+  },
+  "CUR782": {
+    "name": "Argentine Peso",
+    "description": "KwXDYPUvmzkqfLtNOxybBgUEEbTWws",
+    "code": "BRL"
+  },
+  "CUR135": {
+    "name": "Brazilian Real",
+    "description": "nbKEcsSlnOoolhTqTeZzVOEraZYyuZ",
+    "code": "BRL"
+  },
+  "CUR923": {
+    "name": "Brazilian Real",
+    "description": "GaarozbmUTJybSHMBQMlygIyMpFGPv",
+    "code": "EUR"
+  },
+  "CUR646": {
+    "name": "Euro",
+    "description": "JpUxEdJaCdfKAvExhHyDqmxRmWLNGc",
+    "code": "USD"
+  },
+  "CUR300": {
+    "name": "Euro",
+    "description": "opJImkeruaaFdxGaZQttCJVQbGWluF",
+    "code": "USD"
+  },
+  "CUR153": {
+    "name": "Argentine Peso",
+    "description": "ApvEMEbmtWiHWWriovwuQISjEjBWhK",
+    "code": "BRL"
+  },
+  "CUR475": {
+    "name": "Argentine Peso",
+    "description": "ldUGOTabaxQQHhHUBctqurGfrWDsSq",
+    "code": "EUR"
+  },
+  "CUR109": {
+    "name": "Argentine Peso",
+    "description": "bFOeIEpKrSAgaryUPFFbgaGbMTKJLP",
+    "code": "BRL"
+  },
+  "CUR736": {
+    "name": "US Dollar",
+    "description": "mLgserDjQGWebUiFquzkiLCtjGeIWO",
+    "code": "ARS"
+  },
+  "CUR912": {
+    "name": "Argentine Peso",
+    "description": "DgNBPOKKrxHbCGlKnxaLZXjeHHhPCF",
+    "code": "ARS"
+  },
+  "CUR882": {
+    "name": "Euro",
+    "description": "ndYAPdxiHRBTpRYptrCpSqOupNIyPC",
+    "code": "EUR"
+  },
+  "CUR160": {
+    "name": "Argentine Peso",
+    "description": "MzARUJeiHkBMoSaYZnOnmABHAOjzzi",
+    "code": "BRL"
+  },
+  "CUR499": {
+    "name": "Argentine Peso",
+    "description": "nRcfDlJKWLrfXPqYktmrRYZnHdFOiW",
+    "code": "BRL"
+  },
+  "CUR530": {
+    "name": "US Dollar",
+    "description": "eWYRsGCbvGhYiqgRbGeJYnuwTDUZnQ",
+    "code": "EUR"
+  },
+  "CUR689": {
+    "name": "Argentine Peso",
+    "description": "mtyujWJdVShoZHuPpmEmHeCnvCCuVJ",
+    "code": "ARS"
+  },
+  "CUR992": {
+    "name": "US Dollar",
+    "description": "fPdJYZIBdHLCQoWIGCpdteMQTPXqUz",
+    "code": "EUR"
+  },
+  "CUR379": {
+    "name": "Brazilian Real",
+    "description": "oBZBBgTmyDAiUgSGyBHlIDFUlnSpuW",
+    "code": "USD"
+  },
+  "CUR281": {
+    "name": "Argentine Peso",
+    "description": "kBsXPaKLVTQeEYNEnFNqgMpBETtKAH",
+    "code": "ARS"
+  },
+  "CUR271": {
+    "name": "US Dollar",
+    "description": "DAHTtVJhsjrgEbYLynCtlvKiGysiwL",
+    "code": "EUR"
+  },
+  "CUR526": {
+    "name": "Argentine Peso",
+    "description": "MuEZrZvHOreUaEwCJqJVAuMblDuczD",
+    "code": "EUR"
+  },
+  "CUR332": {
+    "name": "Euro",
+    "description": "yfsMNWSXPgcGQBEoiLEGhdVylhcGFy",
+    "code": "ARS"
+  },
+  "CUR243": {
+    "name": "Argentine Peso",
+    "description": "IHRrKmDiGkkYvoMoQXjywoPllyREAl",
+    "code": "USD"
+  },
+  "CUR819": {
+    "name": "Euro",
+    "description": "xXgNgsFvfltnLmQRQMYLEaDLNnUubH",
+    "code": "BRL"
+  },
+  "CUR405": {
+    "name": "Argentine Peso",
+    "description": "zLmURAFITTKbBlwsuHIoaahygAKtUO",
+    "code": "EUR"
+  },
+  "CUR926": {
+    "name": "US Dollar",
+    "description": "poBhYDGrkOBkocZJucUXYRsPWDifws",
+    "code": "ARS"
+  },
+  "CUR162": {
+    "name": "US Dollar",
+    "description": "MgHSYLBlqwIJJmEhvkexfjtMCQEyfu",
+    "code": "EUR"
+  },
+  "CUR180": {
+    "name": "Euro",
+    "description": "nOUxorwFawjkdyxopoGTXVXsxkLpIW",
+    "code": "USD"
+  },
+  "CUR159": {
+    "name": "Argentine Peso",
+    "description": "OtuJUKifHKFkHSkwFhIVyWAlShIrsQ",
+    "code": "USD"
+  },
+  "CUR524": {
+    "name": "Argentine Peso",
+    "description": "GavpJVpSNIZXBncYJdoYJSqNvnIVcl",
+    "code": "EUR"
+  },
+  "CUR354": {
+    "name": "US Dollar",
+    "description": "YmmekHojStUvFdiTpRUReXSVUDpriy",
+    "code": "USD"
+  },
+  "CUR145": {
+    "name": "US Dollar",
+    "description": "OXtXMetkggGgLcCSJKYUMjUcDfhktK",
+    "code": "BRL"
+  },
+  "CUR299": {
+    "name": "Brazilian Real",
+    "description": "YMhoQqjANwBOfljsEutSbjdCJnXURc",
+    "code": "USD"
+  },
+  "CUR877": {
+    "name": "Argentine Peso",
+    "description": "ebIhkBveyfGoHYJTAWFSPWnlhuGknA",
+    "code": "USD"
+  },
+  "CUR894": {
+    "name": "US Dollar",
+    "description": "ZTRmZXBwwXGrAMZWKvFuMaTieTqXgt",
+    "code": "EUR"
+  }
+}

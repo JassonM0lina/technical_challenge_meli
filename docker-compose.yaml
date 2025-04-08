@@ -1,0 +1,49 @@
+services:
+  mongo:
+    image: mongo
+    container_name: integration_db
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  mongo-express:
+    image: mongo-express
+    container_name: mongo-express
+    restart: always
+    ports:
+      - "8081:8081"
+    environment:
+      - ME_CONFIG_MONGODB_SERVER=integration_db
+      - ME_CONFIG_MONGODB_PORT=27017
+      - ME_CONFIG_MONGODB_ENABLE_ADMIN=true
+      - ME_CONFIG_BASICAUTH_USERNAME=admin
+      - ME_CONFIG_BASICAUTH_PASSWORD=admin
+
+  integration_api:
+    build: ./integration_api
+    container_name: integration_api
+    ports:
+      - "5001:5000"
+    depends_on:
+      - mongo
+    volumes:
+      - ./integration_api:/app
+    environment:
+      - FLASK_ENV=development
+      - FLASK_DEBUG=1
+
+  meli_api:
+    build: ./meli_api
+    container_name: meli_api
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./meli_api:/app
+    environment:
+      - FLASK_ENV=development
+      - FLASK_DEBUG=1
+
+
+volumes:
+  mongo_data:
