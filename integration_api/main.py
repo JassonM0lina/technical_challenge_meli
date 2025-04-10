@@ -3,11 +3,12 @@ from modules.fetch_integrate.infraestructure.integration_facade import Integrati
 
 parameter ={
   #'register_attributes': ['price', 'name', 'description'],
-  'len_batch': 50,
-  'name_file': 'datalake.csv',
-  'format': 'csv',
-  'separator': ',',
-  'encoding': 'utf-8',
+  "register_attributes": ["price", "name", "description"],
+  "len_batch": 50,
+  "name_file": "datalake.jsonl",
+  "format": "jsonl",
+  "separator": ",",
+  "encoding": "utf-8"
 }
 
 #try:

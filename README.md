@@ -93,6 +93,18 @@ Body JSON:
   "encoding": "utf-8"
 }
 ```
+#### 📁 Archivos de ejemplo
+
+En la carpeta `./integration_api/fetch_integrate/domain/assets` se encuentran **cuatro archivos** que contienen la misma información de los campos `"site"` e `"id"` de los ítems:
+
+- `datalake.csv`: formato **`csv`**, separador **`,`**
+- `datalake_semicolon.csv`: formato **`csv`**, separador **`;`**
+- `datalake.txt`: formato **`txt`**, separador **`,`**
+- `datalake.jsonl`: formato **`jsonl`**
+
+> 📌 Si desea probar un nuevo archivo, por favor ubíquelo en la misma carpeta:  
+> `./integration_api/fetch_integrate/domain/assets`
+
 
 #### 🔧 Parámetros opcionales:
 
@@ -107,9 +119,33 @@ Body JSON:
 - `len_batch`: número de elementos que se procesarán por cada solicitud a la API de MELI. Valor por defecto: `50`.
   - Se ajustó este parámetro para evitar superar el límite de caracteres en peticiones HTTP (usualmente no más de 2000 caracteres por GET).
 
+  Body JSON con parámateros opcionales:
+
+```json
+{
+  "register_attributes": ["price", "name", "description"],
+  "len_batch": 50,
+  "name_file": "datalake.csv",
+  "format": "csv",
+  "separator": ",",
+  "encoding": "utf-8"
+}
+```
+
+---
+### 2. 📊 **Entrar al GUI de Mongo para visualizar datos**
+
+```bash
+http://localhost:8081/
+```
+
+Una vez se haya hecho el POST a http://localhost:5001/update, se puede ingresar a http://localhost:8081/, que corresponde al servicio de Mongo Express, y allí podrá visualizar la información cargada en la base de datos de MongoDB.
+
+![Mongo Express](./assets/mongo_express.png)
+
 ---
 
-### 2 🌐 **Endpoints Disponibles en la aplicacion MELI API**
+### 3 🌐 **Endpoints Disponibles en la aplicacion MELI API**
 
 La aplicación expone tres endpoints HTTP `GET` para consultar información directamente desde la API de Mercado Libre según el tipo de entidad: ítems, categorías o monedas.
 
@@ -132,11 +168,11 @@ Un JSON con los datos solicitados para cada ítem.
 
 ### 🔹 `/categories` - Consulta de Categorías
 
-Este endpoint permite obtener información de una o varias categorías de productos. Este endpoint simula el API de mercado libre y la data se guarda como `meli_categories_data.json`.
+Este endpoint permite obtener información de las categorías de productos. Este endpoint simula el API de mercado libre y la data se guarda como `meli_categories_data.json`.
 
 ```bash
 GET: http://localhost:5000/categories
-URL_EJEMPLO = /categories?ids=MLA5725
+URL_EJEMPLO = http://localhost:5000/categories?ids=CAT275
 ```
 
 **Parámetros:**
@@ -147,11 +183,10 @@ Un JSON con los datos de la categoría correspondiente.
 
 ### 🔹 `/currencies` - Consulta de Monedas
 
-Este endpoint permite obtener información sobre las monedas que utiliza Mercado Libre (ej. ARS, BRL, COP, etc.). Este endpoint simula el API de mercado libre y la data se guarda como `meli_currencies_data.json`.
 
 ```bash
 GET: http://localhost:5000/currencies
-URL_EJEMPLO = /currencies?ids=ARS
+URL_EJEMPLO = http://localhost:5000/currencies?ids=CUR462
 ```
 **Parámetros:**
 - `ids` (requerido): ID de la moneda que deseas consultar.
@@ -172,7 +207,7 @@ En la siguiente imagen podemos observar un **diagrama de componentes**, junto co
 
 En el siguiente diagrama se puede observar el **diagrama de estados** que el programa sigue para la separación de responsabilidades. A continuación, se describe el flujo del sistema:
 
-1. **Estado 1 - `State_Init`**: Se encarga de leer el archivo de texto fila por fila (**A**) y, cuando se acumula un batch de `x` filas (normalmente 50), se envía dicho batch al estado 2, **`State_Cache`** (**B**).
+1. **Estado 1 - `State_Init`**: Se encarga de recivir el archivo de texto fila por fila (**A**) y, cuando se acumula un batch de `x` filas (normalmente 50), se envía dicho batch al estado 2, **`State_Cache`** (**B**).
 2. **Estado 2 - `State_Cache`**: Revisa cuáles de las `x` filas ya están almacenadas en la base de datos usando consultas en modo bulk. Las que aún no están registradas en Mongo se envían al estado **`State_Info`** (**C**).
 3. **Estado 3 - `State_Info`**: Completa la información de cada fila haciendo un request al API de Mercado Libre (**G**).  
    - Si la información está completa, el registro se guarda en la colección **`complete_register`**.  
@@ -195,21 +230,38 @@ Cada _feature_ posee su propia estructura con carpetas `application`, `domain` e
 
 ### 📁 Estructura del Código
 
-- La implementación de los tres estados `State_Init`, `State_Cache` y `State_Info`, que corresponden a los casos de uso de negocio, se encuentra en:  
+- La implementación de los tres estados `State_Init`, `State_Cache` y `State_Info`, que corresponden a los casos de uso de negocio, se encuentra en la carpeta appliacion:  
   `./integration_api/fetch_integrate/application/pipeline_state.py`
 
-- La conexión a los recursos externos (`open_file`, `database`, `request`) está ubicada en:  
+- La conexión a los recursos externos (`open_file`, `database`, `request`) está ubicada en la carpeta infraestructura:  
   `./integration_api/fetch_integrate/infraestructure/integration_connection.py`
 
-- La carpeta de dominio contiene constantes, parámetros de entrada, interfaces abstractas, el archivo de texto y el contexto de los estados, que actúa como patrón mediador.
+- La carpeta de dominio contiene constantes, parámetros de entrada, interfaces abstractas, el archivo de texto y el contexto de los estados, que actúa como patrón mediador.  `./integration_api/fetch_integrate/domain`
 
 - Adicionalmente, se implementó el patrón *Facade*, que funciona como la interfaz mediante la cual el usuario puede realizar diferentes consultas HTTP.  
-  Es importante mencionar que tanto `app.py` como `main.py` hacen uso de esta interfaz *Facade*. Sin embargo, `app.py` corresponde a la aplicación Flask. Esto significa que si se desea cambiar a FastAPI, la modificación es sencilla, ya que no afecta el caso de uso.
+  Es importante mencionar que tanto `app.py` como `main.py` hacen uso de esta interfaz *Facade* ubicada en `integration_api\modules\fetch_integrate\infraestructure\integration_facade`.  
+  Sin embargo, `app.py` corresponde a la aplicación Flask, mientras que `main.py` permite ejecutar el programa como si fuera un script, sin necesidad de un framework web.  
+  Esto significa que, si se desea cambiar a FastAPI, la modificación sería sencilla, ya que el caso de uso no está acoplado a Flask ni a ningún otro framework.
 
-- Por último, se incluye un archivo adicional `docker-compose.debug.yaml` que ejecuta únicamente la aplicación `meli_app`, `mongo` y `mongo_express`.  
-  En este entorno, es posible correr `main.py` directamente para ejecutar el programa de forma similar a como lo haría Flask. Incluso si se está utilizando el `docker-compose.yaml` principal, se puede seguir ejecutando `main.py` con la opción de *debug* de VSCode.  
+- Por último, se incluye un archivo adicional llamado `docker-compose.debug.yaml`, el cual ejecuta únicamente los servicios `meli_app`, `mongo` y `mongo_express`.  
+  En este entorno, es posible correr `main.py` (ubicado en `integration_api/main.py`) directamente para ejecutar el programa, de forma similar a cómo lo haría Flask.
+
+  Incluso si se está utilizando el archivo `docker-compose.yaml` principal, se puede seguir ejecutando `main.py` desde el modo *debug* de VSCode.  
+  Para esto, solo es necesario instalar las librerías `pymongo` y `requests` en un entorno virtual de desarrollo, con los siguientes pasos:
+
+  ```bash
+  python -m venv venv
+  source venv/bin/activate  # o venv\Scripts\activate en Windows
+  pip install pymongo requests
+  ```
+
   Esto facilita considerablemente el desarrollo, ya que evita la necesidad de subir y bajar constantemente el contenedor `integration_api`, o mantenerlo activo en segundo plano, lo que consumiría más recursos de RAM del equipo.
 
+  Por último, si ejecuta primero `docker-compose.debug.yaml` y luego `docker-compose.yaml`, no olvide eliminar los contenedores anteriores con:
+
+  ```bash
+  docker rm meli_api integration_db
+   ```
 ---
 # 📘 Desafío Teórico
 
