@@ -1,5 +1,6 @@
 from __future__ import annotations
 from abc import ABC, abstractmethod
+from typing import Any, Optional
 
 class ContextState:
 
@@ -36,3 +37,35 @@ class InterfaceConnection(ABC):
   @abstractmethod
   def request(self) -> None:
       pass
+
+
+class InterfaceChain(ABC):
+
+  @abstractmethod
+  def set_next(self, handler: InterfaceChain) -> InterfaceChain:
+    pass
+  @abstractmethod
+  def handle(self, request) -> Optional[str]:
+    pass
+
+
+class ContextChain(InterfaceChain):
+
+  _next_handler: InterfaceChain = None
+
+
+  def __init__(self, parameter: dict) -> None:
+    self.repository = parameter
+    self.request_resource = self.repository['request_resource']
+
+  #def context_update()
+
+  def set_next(self, handler: InterfaceChain) -> InterfaceChain:
+    self._next_handler = handler
+    return handler
+  
+  @abstractmethod
+  def handle(self, save_register: dict, chain_step: dict):
+    if self._next_handler:
+      return self._next_handler.handle(save_register, chain_step)
+    #return None

@@ -1,5 +1,5 @@
 
-from modules.fetch_integrate.infraestructure.integration_facade import IntegrationApiFacade
+from modules.fetch_integrate.infraestructure.integration_facade import IntegrationApiFacade, IntegrationAPIVersion2
 
 parameter ={
   #'register_attributes': ['price', 'name', 'description'],
@@ -12,7 +12,7 @@ parameter ={
 }
 
 #try:
-IntegrationApiFacade(parameter, debug = True).operation()
+IntegrationAPIVersion2(parameter, debug = True).operation()
 #	response = {'ok':'the database is updated!'}
 #except Exception as e:
 #	response = {'error': str(e)}

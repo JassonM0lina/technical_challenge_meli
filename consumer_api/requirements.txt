@@ -1,0 +1,6 @@
+pyspark==3.5.5
+kafka-python==2.1.5
+confluent-kafka==2.9.0
+pymongo==4.12.0
+python-dotenv==1.0.0
+requests==2.31.0 

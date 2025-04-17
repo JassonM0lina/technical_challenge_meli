@@ -1,0 +1,177 @@
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: mongo-data-pvc
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 1Gi
+
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mongo
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mongo
+  template:
+    metadata:
+      labels:
+        app: mongo
+    spec:
+      containers:
+        - name: mongo
+          image: mongo
+          ports:
+            - containerPort: 27017
+          volumeMounts:
+            - name: mongo-data
+              mountPath: /data/db
+      volumes:
+        - name: mongo-data 
+          persistentVolumeClaim:
+            claimName: mongo-data-pvc
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: integration-db
+spec:
+  ports:
+    - port: 27017
+      targetPort: 27017
+  selector:
+    app: mongo
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mongo-express
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mongo-express
+  template:
+    metadata:
+      labels:
+        app: mongo-express
+    spec:
+      containers:
+        - name: mongo-express
+          image: mongo-express
+          ports:
+            - containerPort: 8081
+          env:
+            - name: ME_CONFIG_MONGODB_SERVER
+              value: "mongo"
+            - name: ME_CONFIG_MONGODB_PORT
+              value: "27017"
+            - name: ME_CONFIG_MONGODB_ENABLE_ADMIN
+              value: "true"
+            - name: ME_CONFIG_BASICAUTH_USERNAME
+              value: "admin"
+            - name: ME_CONFIG_BASICAUTH_PASSWORD
+              value: "admin"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: mongo-express
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 8081
+      targetPort: 8081
+      nodePort: 30000
+  selector:
+    app: mongo-express
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: integration-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: integration-api
+  template:
+    metadata:
+      labels:
+        app: integration-api
+    spec:
+      containers:
+        - name: integration-api
+          image: integration-api:latest
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 5001
+          env:
+            - name: FLASK_ENV
+              value: "development"
+            - name: FLASK_DEBUG
+              value: "1"
+      imagePullSecrets:
+        - name: ecr-secret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: integration-api
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 5001
+      targetPort: 5001
+      nodePort: 30001
+  selector:
+    app: integration-api
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: meli-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: meli-api
+  template:
+    metadata:
+      labels:
+        app: meli-api
+    spec:
+      containers:
+        - name: meli-api
+          image: meli-api:latest
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 5000
+          env:
+            - name: FLASK_ENV
+              value: "development"
+            - name: FLASK_DEBUG
+              value: "1"
+      imagePullSecrets:
+        - name: ecr-secret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: meli-api
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 5000
+      targetPort: 5000
+      nodePort: 30002
+  selector:
+    app: meli-api

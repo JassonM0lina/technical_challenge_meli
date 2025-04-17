@@ -117,11 +117,3 @@ class StateCompleteInfoItem(InterfaceState):
 		print('send incomplete', len(total_incomplete_register))
 		if len(total_incomplete_register) > 0:
 			self.update_database.request('incomplete_register', total_incomplete_register)
-
-			
-
-			
-
-			
-
-

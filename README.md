@@ -1,30 +1,37 @@
 ## 📑 Tabla de Contenido
 
-1. [🚀 Instrucciones para Ejecutar el Proyecto](#-instrucciones-para-ejecutar-el-proyecto)  
-   - [Requisitos Previos](#requisitos-previos)  
-   - [Pasos para Ejecutar](#pasos-para-ejecutar)  
-   - [Verificar el estado de los servicios](#verificar-el-estado-de-los-servicios)  
-   - [Detener los servicios](#detener-los-servicios)
-
-2. [🔗 Probar las APIs](#-probar-las-apis)  
-   - [1. Actualizar registros en Mongo desde el archivo cargado](#1-actualizar-registros-en-mongo-desde-el-archivo-cargado)  
-   - [2. 🌐 Endpoints Disponibles en la aplicacion MELI API](#2-🌐-endpoints-disponibles-en-la-aplicacion-meli-api)  
-     - [/items - Consulta de Ítems](#items---consulta-de-ítems)  
-     - [/categories - Consulta de Categorías](#categories---consulta-de-categorías)  
-     - [/currencies - Consulta de Monedas](#currencies---consulta-de-monedas)
-
-3. [📊 Diagrama de Componentes](#-diagrama-de-componentes)
-
-4. [🔄 Diagrama de Estados](#-diagrama-de-estados)
-
-5. [⚙️ Arquitectura y Diseño](#️-arquitectura-y-diseño)
-
-6. [📁 Estructura del Código](#-estructura-del-código)
-
-7. [📘 Desafío Teórico](#-desafío-teórico)  
-   - [1. Procesos, hilos y corrutinas](#1-procesos-hilos-y-corrutinas)  
-   - [2. Optimización de recursos del sistema operativo](#2-optimizacion-de-recursos-del-sistema-operativo)  
-   - [3. Análisis de complejidad](#3-análisis-de-complejidad)
+- [🚀 Instrucciones para Ejecutar el Proyecto](#-instrucciones-para-ejecutar-el-proyecto)
+  - [Requisitos Previos](#requisitos-previos)
+  - [Pasos para Ejecutar](#pasos-para-ejecutar)
+  - [🔗 Probar las APIs](#-probar-las-apis)
+    - [1. **Actualizar registros en Mongo desde el archivo  cargado**](#1-actualizar-registros-en-mongo-desde-el-archivo--cargado)
+      - [📁 Archivos de ejemplo](#-archivos-de-ejemplo)
+      - [🔧 Parámetros opcionales:](#-parámetros-opcionales)
+    - [2. 📊 **Entrar al GUI de Mongo para visualizar datos**](#2--entrar-al-gui-de-mongo-para-visualizar-datos)
+    - [3 🌐 **Endpoints Disponibles en la aplicacion MELI API**](#3--endpoints-disponibles-en-la-aplicacion-meli-api)
+    - [🔹 `/items` - Consulta de Ítems](#-items---consulta-de-ítems)
+    - [🔹 `/categories` - Consulta de Categorías](#-categories---consulta-de-categorías)
+    - [🔹 `/currencies` - Consulta de Monedas](#-currencies---consulta-de-monedas)
+    - [Soluciones del ejercicio propuesto](#soluciones-del-ejercicio-propuesto)
+      - [Solucion A:](#solucion-a)
+      - [🔗 Diagrama de Componentes](#-diagrama-de-componentes)
+      - [🔄 Diagrama de Estados](#-diagrama-de-estados)
+      - [Solucion B:](#solucion-b)
+      - [🔗 Diagrama de Componentes](#-diagrama-de-componentes-1)
+      - [🔄 Diagrama de Secuencia](#-diagrama-de-secuencia)
+    - [🚀 Mejoras a implementar](#-mejoras-a-implementar)
+    - [⚙️ Arquitectura y Diseño](#️-arquitectura-y-diseño)
+    - [📁 Estructura del Código](#-estructura-del-código)
+- [📘 Desafío Teórico](#-desafío-teórico)
+  - [1. Procesos, hilos y corrutinas](#1-procesos-hilos-y-corrutinas)
+    - [● Un caso en el que usarías procesos para resolver un problema y por qué](#-un-caso-en-el-que-usarías-procesos-para-resolver-un-problema-y-por-qué)
+    - [● Un caso en el que usarías threads para resolver un problema y por qué](#-un-caso-en-el-que-usarías-threads-para-resolver-un-problema-y-por-qué)
+    - [● Un caso en el que usarías corrutinas para resolver un problema y por qué](#-un-caso-en-el-que-usarías-corrutinas-para-resolver-un-problema-y-por-qué)
+  - [2. Optimización de recursos del sistema operativo](#2-optimización-de-recursos-del-sistema-operativo)
+    - [● Si tuvieras 1.000.000 de elementos y tuvieras que consultar para cada uno de ellos información en una API HTTP. ¿Cómo lo harías? Explicar.](#-si-tuvieras-1000000-de-elementos-y-tuvieras-que-consultar-para-cada-uno-de-ellos-información-en-una-api-http-cómo-lo-harías-explicar)
+  - [3. Análisis de complejidad](#3-análisis-de-complejidad)
+    - [● Dados 4 algoritmos A, B, C y D que cumplen la misma funcionalidad, con complejidades O(n²), O(n³), O(2ⁿ) y O(n log n), respectivamente, ¿Cuál de los algoritmos favorecerías y cuál descartarías en principio? Explicar por qué.](#-dados-4-algoritmos-a-b-c-y-d-que-cumplen-la-misma-funcionalidad-con-complejidades-on-on-o2ⁿ-y-on-log-n-respectivamente-cuál-de-los-algoritmos-favorecerías-y-cuál-descartarías-en-principio-explicar-por-qué)
+    - [● Asume que dispones de dos bases de datos para utilizar en diferentes problemas a resolver. La primera, llamada AlfaDB, tiene una complejidad de O(1) en consulta y O(n²) en escritura. La segunda, llamada BetaDB, tiene una complejidad de O(log n) tanto para consulta como para escritura. Describe, en forma sucinta, qué casos de uso podrías atacar con cada una.](#-asume-que-dispones-de-dos-bases-de-datos-para-utilizar-en-diferentes-problemas-a-resolver-la-primera-llamada-alfadb-tiene-una-complejidad-de-o1-en-consulta-y-on-en-escritura-la-segunda-llamada-betadb-tiene-una-complejidad-de-olog-n-tanto-para-consulta-como-para-escritura-describe-en-forma-sucinta-qué-casos-de-uso-podrías-atacar-con-cada-una)
 
 
 
@@ -195,7 +202,17 @@ URL_EJEMPLO = http://localhost:5000/currencies?ids=CUR462
 Un JSON con los datos de la moneda especificada.  
 
 ---
-### 🔗 Diagrama de Componentes
+### Soluciones del ejercicio propuesto
+
+Dado que el enunciado del challege meniona que en genral no se debe usar librerias cuando un modulo built-in lo puede resolver, se proponen dos soluciones:
+
+A. **La primera solucion** solo usa las librerias de flask, pymongo y request. Por tanto, es necesario usar multiprocesingde Python para liberar la solicitud del usuario y permitir que el procesamiento se realice de forma asíncrona.
+
+B. **La segunda solucion** Esta solución plantea el uso conjunto de Kafka y Apache Spark. Al publicar la petición en Kafka, el sistema responde de forma asíncrona, liberando inmediatamente al usuario, mientras que el procesamiento de los datos se realiza en segundo plano. Gracias a la arquitectura distribuida de Apache Spark, basada en clústeres, los mensajes pueden ser consumidos en paralelo, lo que permite leer, procesar, realizar peticiones HTTP y actualizar la base de datos de manera eficiente.
+
+#### Solucion A:
+
+#### 🔗 Diagrama de Componentes
 
 En la siguiente imagen podemos observar un **diagrama de componentes**, junto con los **puertos y URLs** a través de los cuales cada componente se comunica entre sí, incluyendo la interacción del usuario:
 
@@ -203,7 +220,7 @@ En la siguiente imagen podemos observar un **diagrama de componentes**, junto co
 
 ---
 
-### 🔄 Diagrama de Estados
+#### 🔄 Diagrama de Estados
 
 En el siguiente diagrama se puede observar el **diagrama de estados** que el programa sigue para la separación de responsabilidades. A continuación, se describe el flujo del sistema:
 
@@ -215,6 +232,119 @@ En el siguiente diagrama se puede observar el **diagrama de estados** que el pro
    - Luego de procesar todo el batch, retorna al estado inicial **`State_Init`** para continuar con el siguiente grupo de filas (**D**) hasta completar todo el archivo (**A**).
 
 ![State Diagram](./assets/state_diagram.png)
+
+#### Solucion B:
+
+#### 🔗 Diagrama de Componentes
+
+El siguiente diagrama de secuencia ilustra la comunicación entre los distintos componentes del sistema durante un ciclo típico de solicitud–respuesta. Se utiliza Apache Kafka como mecanismo de desacoplamiento para realizar procesamiento en segundo plano de forma eficiente.
+
+![Component Diagram](./assets/component_with_broker.png)
+
+**1. Usuario**  
+Interactúa directamente con las interfaces expuestas vía HTTP:
+- `meli_api`
+- `integration_api`
+- `kafka_ui`
+- `mongo-express`
+
+**2. meli_api**  
+Servicio que expone endpoints para consultar información de ítems.  
+Es consumido por `consumer_api` durante el procesamiento de datos.
+
+**3. integration_api**  
+API que:
+- Recibe solicitudes HTTP del usuario.
+- Publica mensajes en Kafka para procesamiento asíncrono.
+- Devuelve inmediatamente una respuesta HTTP 200.
+
+
+**4. kafka_broker**  
+Sistema de mensajería basado en el patrón **Pub/Sub (Publicación/Suscripción)**:
+- `integration_api` actúa como *producer* (publicador).
+- `consumer_api` actúa como *consumer* (suscriptor).
+- Kafka garantiza desacoplamiento, escalabilidad y procesamiento en paralelo.
+
+**5. consumer_api**  
+Servicio que:
+- Escucha mensajes de Kafka.
+- Lee un archivo externo para complementar y procesar datos usando apache kafka.
+
+**6. kafka_ui**  
+Interfaz gráfica para la administración de Kafka:
+- Visualización de tópicos, productores y consumidores.
+- Inspección en tiempo real de mensajes y flujo de datos.
+
+**7. mongo-express**  
+Dashboard visual accesible por navegador que permite:
+- Navegar, consultar y administrar documentos dentro de MongoDB.
+- Útil para debugging y monitoreo de datos persistidos.
+
+**8. MongoDB**  
+Base de datos NoSQL documental:
+- Almacena los datos finales procesados por `consumer_api`.
+- Permite operaciones de lectura y escritura eficientes en formato JSON-like.
+
+#### 🔄 Diagrama de Secuencia
+
+En este diagrama podemos observar el **diagrama de secuencia** que el programa sigue para ejecutar el proceso completo. A continuacion se describe el flujo del sistema:
+
+![Component Diagram](./assets/sequence_diagram.png)
+
+1. **Recepción de la Solicitud HTTP**  
+   El **Usuario** inicia la interacción enviando una solicitud HTTP al servicio `integration_api`.
+
+2. **Publicación de un Mensaje en Kafka**  
+   El servicio `integration_api`, al recibir la solicitud, **publica un mensaje** en un tópico gestionado por el `kafka_broker`. Este mensaje contiene toda la información necesaria para que otro componente continúe con el procesamiento.
+
+3. **Respuesta Inmediata al Usuario**  
+   `integration_api` devuelve una respuesta **HTTP 200 OK** al usuario. A partir de este punto, la lógica pasa a ser responsabilidad del sistema de mensajería Kafka, **liberando el hilo de ejecución original**.
+
+4. **Consumo del Mensaje por `consumer_api`**  
+   El servicio `consumer_api`, suscrito al tópico de Kafka, **consume el mensaje** tan pronto como esté disponible.
+
+5. **Lectura de Archivo Externo**  
+   Después de consumir el mensaje, `consumer_api` accede a un **archivo local** (por ejemplo, CSV o JSON) para obtener datos adicionales necesarios para el procesamiento.
+
+6. **Consultas a `meli_api` por cada Ítem**  
+    Por cada elemento procesado, consumer_api realiza tres solicitudes HTTP independientes a meli_api:
+    - Una solicitud para obtener la información del ítem.
+    - Una solicitud para determinar la categoría del ítem.
+    - Una solicitud para obtener la información de la moneda.
+    Estas operaciones se realizan en un bucle, asegurando que los tres tipos de datos se recojan para cada ítem antes de continuar.
+
+7. **Persistencia de Datos en MongoDB**  
+   Una vez recibidas todas las respuestas de `meli_api`, `consumer_api` realiza una única operación de **guardado masivo** en la base de datos `mongo`.
+
+**Para probar esta nueva solución**, se puede realizar la siguiente petición donde el cuerpo del JSON es el mismo que se explicó en la sección de **Probar las APIs**, pero con la ruta **/integration**.
+
+```bash
+POST: http://localhost:5001/integration
+```
+
+Body JSON:
+```json
+{
+  "register_attributes": ["price", "name", "description"],
+  "len_batch": 50,
+  "name_file": "datalake.csv",
+  "format": "csv",
+  "separator": ",",
+  "encoding": "utf-8"
+}
+```
+
+### 🚀 Mejoras a implementar
+
+En esta solución se plantea leer los mensajes de Kafka a través de Apache Spark, lo cual depende del número de particiones del tópico para poder leer los mensajes de manera paralela. En este ejemplo, el tópico se configuró con 3 particiones. Otra forma de resolver el ejercicio es leer los mensajes de Kafka mediante la API de Kafka para Python y ejecutar un subproceso que realice el procesamiento requerido con PySpark. Esto permite que el consumidor no se quede ejecutando el proceso y pueda liberarse rápidamente para seguir escuchando Kafka. En ambas soluciones propuestas, se puede utilizar Kubernetes para escalar horizontalmente según las réplicas configuradas.
+
+Como implementaciones futuras para mejorar la solución propuesta, se sugiere separar aún más las responsabilidades al leer el archivo, realizar las peticiones HTTP, completar los datos y actualizar la base de datos, tal como se hizo en la Solución 1, donde se implementó DDD y arquitectura hexagonal. Aunque ya se han utilizado métodos como mapPartitions, foreachPartition y map, al dividir aún más las responsabilidades, se podrá aprovechar al máximo estos métodos que ofrece PySpark, mejorando la paralelización y el rendimiento del procesamiento.
+
+El archivo de entrada, que contiene la información de 'site' e 'id', se encuentra dentro del microservicio consumer_api. Por lo tanto, es necesario permitir que el usuario pueda subir este archivo, ya sea que se ubique de forma local o en la nube. Es importante mover este archivo a una ubicación accesible para que consumer_api pueda leerlo.
+
+Como mejora futura, se puede evaluar integrar un sistema de orquestación de tareas como Celery, en conjunto con Redis como broker de mensajes, para desacoplar la lógica de escritura en la base de datos del procesamiento principal. Esta arquitectura permitiría reducir la carga sobre la BBDD, controlar mejor la concurrencia y gestionar los reintentos de forma más robusta. Además, facilitaría escalar de manera independiente las tareas de persistencia, especialmente cuando se utiliza un motor de procesamiento distribuido como Apache Spark, permitiendo así una mayor eficiencia y resiliencia en entornos de alto volumen de datos.
+
+Una de las restricciones del proyecto era utilizar Flask; sin embargo, en el microservicio meli_api se propone el uso de FastAPI para reemplazar la librería requests por httpx, lo que permite aprovechar el modelo asincrónico mediante async/await. Esto es posible porque FastAPI se basa en el estándar ASGI, el cual habilita el uso de corrutinas y facilita un manejo más eficiente de las solicitudes HTTP concurrentes.
 
 ---
 

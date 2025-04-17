@@ -2,7 +2,7 @@ from __future__ import annotations
 from modules.fetch_integrate.domain.integration_interface import ContextState
 from modules.fetch_integrate.domain.integration_constant import EnvConstant
 from modules.fetch_integrate.appication.pipeline_state import StateInitIntegration, StateCheckDocument, StateCompleteInfoItem
-from modules.fetch_integrate.infraestructure.integration_connection import FileExtract, UpdateDocumentMongo, RequestExternalResource, FindDocumentMongo
+from modules.fetch_integrate.infraestructure.integration_connection import KafkaConnection, FileExtract, UpdateDocumentMongo, RequestExternalResource, FindDocumentMongo
 
 
 class IntegrationApiFacade:
@@ -39,8 +39,35 @@ class IntegrationApiFacade:
     context_process.transition_to(state_init_integration)
     context_process.request()
     
+class IntegrationAPIKafka:
+
+  def __init__(self, parameter, debug: bool = False):
+    self.parameter: dict = parameter
+    self.is_debug: str =  '_DEBUG' if debug else ''
+    self.flink_consumer = None
+
+  def operation(self):
+    env_constat = EnvConstant()
+    
+    # Configure file parameters
+    name_file: str = self.parameter['name_file']
+    self.parameter['file_location'] = f'{env_constat.STR_LOCATION_DATA}/{name_file}'
+    
+    # Configure Kafka parameters
+    kafka_bootstrap_servers = "kafka:9093"
+    kafka_topic = "meli_products"
+    
+    # Configure MongoDB parameters
+    #self.parameter['mongo_url'] = env_constat.__dict__[f'URL_MONGO_CONNECTION{self.is_debug}']
+    #self.parameter['mongo_database'] = 'meli_data'
+    #self.parameter['mongo_collection'] = 'items'
+    #self.parameter['mongo_bulk_size'] = 200
+
+    self.kafka_connection = KafkaConnection(kafka_bootstrap_servers, kafka_topic)
+    self.kafka_connection.publish_message(self.parameter)
 
 
-    
-    
+
+
+
 

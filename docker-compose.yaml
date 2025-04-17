@@ -6,6 +6,8 @@ services:
       - "27017:27017"
     volumes:
       - mongo_data:/data/db
+    networks:
+      - meli-network
 
   mongo-express:
     image: mongo-express
@@ -19,31 +21,137 @@ services:
       - ME_CONFIG_MONGODB_ENABLE_ADMIN=true
       - ME_CONFIG_BASICAUTH_USERNAME=admin
       - ME_CONFIG_BASICAUTH_PASSWORD=admin
+    networks:
+      - meli-network
 
-  integration_api:
-    build: ./integration_api
-    container_name: integration_api
-    ports:
-      - "5001:5000"
-    depends_on:
-      - mongo
-    volumes:
-      - ./integration_api:/app
-    environment:
-      - FLASK_ENV=development
-      - FLASK_DEBUG=1
-
-  meli_api:
+  meli-api:
     build: ./meli_api
     container_name: meli_api
     ports:
       - "5000:5000"
     volumes:
       - ./meli_api:/app
+    networks:
+      - meli-network
+    depends_on:
+      - mongo
+      - kafka
+
+  integration-api:
+    build: ./integration_api
+    container_name: integration-api
+    ports:
+      - "5001:5000"
+    volumes:
+      - ./integration_api:/app
     environment:
       - FLASK_ENV=development
       - FLASK_DEBUG=1
+      - KAFKA_BOOTSTRAP_SERVERS=kafka:9093
+      - MONGO_URI=mongodb://integration_db:27017
+    depends_on:
+      - mongo
+      - kafka
+    networks:
+      - meli-network
 
+  zookeeper:
+    image: bitnami/zookeeper:3.8
+    container_name: zookeeper
+    ports:
+      - "2181:2181"
+    environment:
+      - ALLOW_ANONYMOUS_LOGIN=yes
+      - ZOO_SERVER_ID=1
+      - ZOO_PORT_NUMBER=2181
+    networks:
+      - meli-network
+    healthcheck:
+      test: ["CMD", "zkServer.sh", "status"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  kafka:
+    image: bitnami/kafka:3.4
+    container_name: kafka
+    ports:
+      - "9093:9093"
+    environment:
+      - KAFKA_CFG_ZOOKEEPER_CONNECT=zookeeper:2181
+      - ALLOW_PLAINTEXT_LISTENER=yes
+      - KAFKA_CFG_LISTENERS=PLAINTEXT://:9093
+      - KAFKA_CFG_ADVERTISED_LISTENERS=PLAINTEXT://kafka:9093
+      - KAFKA_LISTENER_SECURITY_PROTOCOL_MAP=PLAINTEXT:PLAINTEXT
+      - KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1
+      - KAFKA_CFG_AUTO_CREATE_TOPICS_ENABLE=true
+      - KAFKA_CFG_NUM_PARTITIONS=1
+      - KAFKA_CFG_OFFSETS_TOPIC_REPLICATION_FACTOR=1
+      - KAFKA_CFG_TRANSACTION_STATE_LOG_REPLICATION_FACTOR=1
+      - KAFKA_CFG_TRANSACTION_STATE_LOG_MIN_ISR=1
+      - KAFKA_BROKER_ID=1
+      - KAFKA_CFG_DELETE_TOPIC_ENABLE=true
+      - KAFKA_CFG_LOG_RETENTION_HOURS=24
+      - KAFKA_CFG_LOG_RETENTION_CHECK_INTERVAL_MS=300000
+      - KAFKA_BOOTSTRAP_SERVERS=kafka:9093
+      - KAFKA_TOPIC=meli_products
+    depends_on:
+      zookeeper:
+        condition: service_healthy
+    volumes:
+      - kafka_data:/bitnami/kafka
+    networks:
+      - meli-network
+    healthcheck:
+      test: ["CMD", "kafka-topics.sh", "--list", "--bootstrap-server", "localhost:9093"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+  consumer-api:
+    build: ./consumer_api
+    container_name: consumer-api
+    volumes:
+      - ./consumer_api:/app
+      - ./consumer_api/checkpoint:/tmp/checkpoint
+    environment:
+      - KAFKA_BOOTSTRAP_SERVERS=kafka:9093
+      - KAFKA_TOPIC=meli_products
+      - MONGO_URL=mongodb://integration_db:27017/
+      - MONGO_DATABASE=meli_data
+      - MONGO_COLLECTION=processed_items
+      - CHECKPOINT_LOCATION=/tmp/checkpoint
+      - BATCH_INTERVAL=5
+      - MELI_API_URL=http://meli-api:5000
+    depends_on:
+      kafka:
+        condition: service_healthy
+      mongo:
+        condition: service_started
+      meli-api:
+        condition: service_started
+    networks:
+      - meli-network
+    restart: unless-stopped
+
+  kafka-ui:
+    image: provectuslabs/kafka-ui
+    container_name: kafka-ui
+    ports:
+      - "8080:8080"
+    environment:
+      - KAFKA_CLUSTERS_0_NAME=local
+      - KAFKA_CLUSTERS_0_BOOTSTRAP_SERVERS=kafka:9093
+    depends_on:
+      - kafka
+    networks:
+      - meli-network
+
+networks:
+  meli-network:
+    driver: bridge
 
 volumes:
   mongo_data:
+  kafka_data: 
